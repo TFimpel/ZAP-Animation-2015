@@ -154,18 +154,20 @@ void setup() {
  List < Float > countCollection = new ArrayList < Float > (); //create an empty lists to store all the zapScanCount values
  List < DateTime > dateCollection = new ArrayList < DateTime > (); //create an empty list to store date values
 
- /* determine the start time and count of days of the animation by loop over the zapScans list and then getting these summary stats. Note that */
+
+ /* determine the start time and zap count values by looping over the zapScans list and then getting these summary stats. */
  for (Marker i: zapScans) {
-  Float count = Float.parseFloat(i.getStringProperty("count_as_string")); // get this marker's count_as_string property value. This is the day of the year, beginning Jan 1st.
+  Float count = Float.parseFloat(i.getStringProperty("count_as_string")); // get this marker's daily zap count.
   DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
   DateTime time = new DateTime(f.parseDateTime((i.getStringProperty("date_as_string")))); //get this marker's timestamp attribute. Due to data format use DateTimeFormatter
   countCollection.add(count); //add count value to countCollection list
   dateCollection.add(time); // add time value to dateCollection list
  }
- maxZapScanCount = Collections.max(countCollection);
- minZapScanCount = Collections.min(countCollection);
  startTime = Collections.min(dateCollection);
  currentTime = startTime; //set the current time to the startTime
+
+ maxZapScanCount = Collections.max(countCollection); //used for normalizing map symbol size
+ minZapScanCount = Collections.min(countCollection); //used for normalizing map symbol size
 
 
  /* createan array of floating point values and populate it with frequencies corresponding to the notes in the musical scale Dm ajor. */
@@ -247,11 +249,15 @@ void setup() {
 
  /* set the speed of the animation */
  frameRate(4); // frames to be displayed every second. default is 60
-}
 
-/* processing draw function */
+}//end setup
+
+/* PROCESSING DRAW FUNCTION */
 void draw() {
- map.draw();
+ map.draw(); //draw the map fist. nothing is "under" the map.
+
+
+ /* place area text labels on map */
  textSize(14);
  textLeading(18);
  fill(0, 0, 0);
@@ -267,19 +273,14 @@ void draw() {
  text("Seward", seward.getScreenPosition(map).x, seward.getScreenPosition(map).y);
 
 
- /* when end of trajectory is reached start over  */
-
+ /* interpolated surface and label display at end of animation. Note hard coded date values. TO-DO: remove dependency on hard coded values. */
  DateTimeFormatter after2015 = DateTimeFormat.forPattern("MM-dd-yyyy");
- DateTime after2015Time = new DateTime(after2015.parseDateTime("01-01-2016"));
+ DateTime after2015Time = new DateTime(after2015.parseDateTime("01-01-2016")); 
  DateTime after2015TimePlus = new DateTime(after2015.parseDateTime("02-01-2016"));
  if (currentTime.isAfter(after2015Time)) {
   if (currentTime.isAfter(after2015TimePlus)) {
-   surf_opacity_counter = surf_opacity_counter + 0.8;
-   //test display surface 
-   tint(255, surf_opacity_counter); // Display at half opacity
-   image(img_surface, 130, 165, 1237, 620);
-   noTint();
-  }
+
+  //after 01-01-2016 display legend that explains weekday | weekend average labels.
   strokeWeight(2);
   stroke(0);
   fill(255);
@@ -295,7 +296,6 @@ void draw() {
   text("Weekend", 1450, 630);
   textAlign(LEFT);
   sqw.setFreq(0);
- }
 
 
 
@@ -304,137 +304,144 @@ void draw() {
  text("Data: University of Minnesota Parking and Transportation Services, Esri, DeLorme, NAVTEQ   Created by: Tobias Fimpel", 850, 895);
 
 
- println();
- println(currentTime);
- /* loop over each marker again and draw our own graphics */
+ /* loop over each marker in zapScans and draw the ellipses occuring during 2015 */
  for (Marker i: zapScans) {
-  /* get the dayly count property values */
-  Float zapScanCount = Float.parseFloat(i.getStringProperty("count_as_string")); //get the count
+  /* get the dayly count, date, and day-type  property values */
+  Float zapScanCount = Float.parseFloat(i.getStringProperty("count_as_string"));
   DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
   DateTime markerTime = new DateTime(f.parseDateTime(i.getStringProperty("date_as_string")));
   String dayType = i.getStringProperty("wd_or_we");
-  /* check point's timeStamp and only if it's smaller than currentTime draw it*/
-  //if(markerTime.isBefore(currentTime)){
+
+  /* check point's timeStamp and only if it's before currentTime + 1 day and after currentTime - 1 day draw it */
   if ((markerTime.isBefore(currentTime.plusDays(1))) && (markerTime.isAfter(currentTime.minusDays(1)))) {
-   ScreenPosition coords = map.getScreenPosition(i.getLocation()); //Translates a marker's lat/long values to our local screen coordinates
-   Float pointStroke = map(zapScanCount, minZapScanCount, maxZapScanCount, 0, 100); //the map function in Processing normalizes a given values.
+   ScreenPosition coords = map.getScreenPosition(i.getLocation()); //translates a marker's lat/long values to local screen coordinates
+   Float pointStroke = map(zapScanCount, minZapScanCount, maxZapScanCount, 0, 100); //normalizes count value will determine size of ellipse.
    stroke(0);
    strokeWeight(1);
+
+   /* ellipses are color coded based on weekday vs. weekend day-type */
    if (dayType.equals("wd") == true) {
     fill(c_wd_map);
    }
    if (dayType.equals("we") == true) {
     fill(c_we);
    }
-   ellipse(coords.x, coords.y, pointStroke, pointStroke); //draw an ellipse and set the size based on the point's pointStroke value 
 
-  } //end if statement
- } //end the loop
+   ellipse(coords.x, coords.y, pointStroke, pointStroke); 
 
  /* year avgs */
+
+ /* loop over each marker  in zapScanAvgs and draw the ellipses occuring after 2015 */
  for (Marker i: zapScanAvgs) {
-  /* get the dayly count property values */
-  Float zapScanCount = Float.parseFloat(i.getStringProperty("avg_zaps_per_day_string")); //get the count
-  Float zapScanCount_we = Float.parseFloat(i.getStringProperty("avg_zaps_per_we_day")); //get the count
-  Float zapScanCount_wd = Float.parseFloat(i.getStringProperty("avg_zaps_per_wd_day")); //get the count
-  Float labeloffsetY = Float.parseFloat(i.getStringProperty("extralabeloffsetY")); //get the count
-  Float labeloffsetX = Float.parseFloat(i.getStringProperty("extralabeloffsetX")); //get the count
+  /* get the daily count property values */
+  Float zapScanCount_we = Float.parseFloat(i.getStringProperty("avg_zaps_per_we_day")); //get the avg. count for this station for weekend days
+  Float zapScanCount_wd = Float.parseFloat(i.getStringProperty("avg_zaps_per_wd_day")); //get the avg. count for this station for weekday days
+  Float labeloffsetY = Float.parseFloat(i.getStringProperty("extralabeloffsetY")); //get the extralabeloffsetY property. used for improved label placement 
+  Float labeloffsetX = Float.parseFloat(i.getStringProperty("extralabeloffsetX")); //get the extralabeloffsetX property. used for improved label placement 
   DateTimeFormatter f1 = DateTimeFormat.forPattern("MM-dd-yyyy");
-  DateTime markerTime1 = new DateTime(f1.parseDateTime(i.getStringProperty("date_as_string1")));
-  DateTimeFormatter f2 = DateTimeFormat.forPattern("MM-dd-yyyy");
-  DateTime markerTime2 = new DateTime(f2.parseDateTime(i.getStringProperty("date_as_string2")));
-  /* check point's timeStamp and only if it's smaller than currentTime draw it*/
+  DateTime markerTime1 = new DateTime(f1.parseDateTime(i.getStringProperty("date_as_string1"))); //get the date. This is beginning of 2016 for all of these points because we only want to display this data after 2015 days have finished
+  
+  /* if it's after 2015 draw thes*/
   if (currentTime.isAfter(markerTime1.plusDays(1))) {
 
    ScreenPosition coords = map.getScreenPosition(i.getLocation()); //Translates a marker's lat/long values to our local screen coordinates
-   Float pointStroke1 = map(zapScanCount_wd, minZapScanCount, maxZapScanCount, 0, 100); //the map function in Processing normalizes a given values.
+   
+   /* draw the ellipls showing avg. weekday day station counts */
+   Float pointStroke1 = map(zapScanCount_wd, minZapScanCount, maxZapScanCount, 0, 100); //normalize to determine the size if the ellipse
    stroke(c_wd_map);
    strokeWeight(2);
    fill(0, 0, 0, 1);
    ellipse(coords.x, coords.y, pointStroke1, pointStroke1); //draw an ellipse and set the size based on the point's pointStroke value 
 
+   /* draw the ellipls showing avg. weekend day station counts */
    Float pointStroke2 = map(zapScanCount_we, minZapScanCount, maxZapScanCount, 0, 100); //the map function in Processing normalizes a given values.
    stroke(c_we);
    strokeWeight(2);
    ellipse(coords.x, coords.y, pointStroke2, pointStroke2); //draw an ellipse and set the size based on the point's pointStroke value 
 
-   /* labels. we label placement is dependent on number of digits in zapScanCount_wd */
+   /* avg. daily zap count label placement is dependent on number of digits in zapScanCount_wd and the marker's labeloffsetY and labeloffsetX values*/
    textSize(16);
    fill(c_wd_map);
    String label_wd = i.getStringProperty("avg_zaps_per_wd_day");
    Float label_wd_x = coords.x + pointStroke1 / 2 + labeloffsetX;
    Float label_wd_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-   text(label_wd, label_wd_x, label_wd_y);
+   text(label_wd, label_wd_x, label_wd_y); //place the weekday count label
+
    if (zapScanCount_wd > 99) {
     textSize(16);
     fill(150);
     String divider = "|";
     Float div_x = coords.x + pointStroke1 / 2 + 29 + labeloffsetX;
     Float div_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-    text(divider, div_x, div_y);
+    text(divider, div_x, div_y); //place the divider pipe
 
     textSize(16);
     fill(c_we);
     String label_we = i.getStringProperty("avg_zaps_per_we_day");
     Float label_we_x = coords.x + pointStroke1 / 2 + 35 + labeloffsetX;
     Float label_we_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-    text(label_we, label_we_x, label_we_y);
+    text(label_we, label_we_x, label_we_y); //place the weekend count label
    }
+
    if ((zapScanCount_wd < 99) && (zapScanCount_wd > 10)) {
     textSize(16);
     fill(150);
     String divider = "|";
     Float div_x = coords.x + pointStroke1 / 2 + 19 + labeloffsetX;
     Float div_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-    text(divider, div_x, div_y);
+    text(divider, div_x, div_y); //place the divider pipe
 
     textSize(16);
     fill(c_we);
     String label_we = i.getStringProperty("avg_zaps_per_we_day");
     Float label_we_x = coords.x + pointStroke1 / 2 + 25 + labeloffsetX;
     Float label_we_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-    text(label_we, label_we_x, label_we_y);
+    text(label_we, label_we_x, label_we_y); //place the weekend count label
    }
+
    if (zapScanCount_wd < 10) {
     textSize(16);
     fill(150);
     String divider = "|";
     Float div_x = coords.x + pointStroke1 / 2 + 9 + labeloffsetX;
     Float div_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-    text(divider, div_x, div_y);
+    text(divider, div_x, div_y); //place the divider pipe
 
     textSize(16);
     fill(c_we);
     String label_we = i.getStringProperty("avg_zaps_per_we_day");
     Float label_we_x = coords.x + pointStroke1 / 2 + 15 + labeloffsetX;
     Float label_we_y = coords.y + pointStroke1 / 2 + labeloffsetY;
-    text(label_we, label_we_x, label_we_y);
+    text(label_we, label_we_x, label_we_y); //place the weekend count label
    }
-  } //end if statement
- } //end the loop
+  }
+ } //end avg. daily zap count loop
 
- //size(1300, 900, P2D); 
- //background
+
+/* the area containing the title, bar chart, etc.  */
+
  rectMode(CORNERS);
- stroke(255); //color
- fill(0); // Set fill to gray
- rect(500, 645, 1490, 885, 7); // height of box is 215
+ stroke(255); 
+ fill(0);
+ rect(500, 645, 1490, 885, 7); //background rectangle
 
 
- //ellipse symbols map key
+ //ellipse symbols map key. Note this is hard coded. TO-DO: remove dependency on hard coded values.
  ellipse(originX - 160, originY - 38, 97, 97); //97px is for 400 if we are mapping max value of 414 to 100px
  ellipse(originX - 160, originY - 23, 68, 68); //68px is for 200 if we are mapping max value of 414 to 100px
  ellipse(originX - 160, originY - 14, 48, 48); //48px is for 100 if we are mapping max value of 414 to 100px
  ellipse(originX - 160, originY - 6, 34, 34); //48px is for 50 if we are mapping max value of 414 to 100px
 
 
- //x-y axis
- stroke(255, 255, 255); //color...this should depend on weekend vs weekday
- strokeWeight(2); //width in pixel ... this needs to be somehow dependent on with of screen
+ //x-y axis of bar chart
+ stroke(255, 255, 255);
+ strokeWeight(2); 
  line(originX, originY, originX + 730 + 2, originY); //x-axis
  line(originX, originY, originX, originY - 110); //y-axis
- image(img, originX - 85, originY - 100); //FYI image width is 46px, heigh is 100px
- /* horizontal dashed lines */
+ image(img, originX - 85, originY - 100); //the musical key image
+
+
+ /* horizontal dashed lines on bar chart*/
  strokeWeight(1);
  stroke(255, 255, 255);
  float x1 = 635;
@@ -450,9 +457,10 @@ void draw() {
   point(x1, y100);
  }
 
+
  /* dividing lines between months */
  stroke(255, 255, 255);
- strokeWeight(1); //width in pixel ... this needs to be somehow dependent on with of screen
+ strokeWeight(1);
  line(originX + 31 * 2, originY, originX + 31 * 2, originY + 6); //jan|feb
  line(originX + 31 * 2 + 28 * 2, originY, originX + 31 * 2 + 28 * 2, originY + 6); //feb|mar
  line(originX + 31 * 2 + 28 * 2 + 31 * 2, originY, originX + 31 * 2 + 28 * 2 + 31 * 2, originY + 6); //mar|apr
@@ -464,14 +472,20 @@ void draw() {
  line(originX + 31 * 2 + 28 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 31 * 2 + 30 * 2, originY, originX + 31 * 2 + 28 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 31 * 2 + 30 * 2, originY + 6); ///sep|oct
  line(originX + 31 * 2 + 28 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 31 * 2 + 30 * 2 + 31 * 2, originY, originX + 31 * 2 + 28 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 31 * 2 + 30 * 2 + 31 * 2, originY + 6); //oct|nov
  line(originX + 31 * 2 + 28 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2, originY, originX + 31 * 2 + 28 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 31 * 2 + 30 * 2 + 31 * 2 + 30 * 2, originY + 6); //nov|dec
+ 
+
  /* tick marks on y axis */
- strokeWeight(1); //width in pixel ... this needs to be somehow dependent on with of screen
+ strokeWeight(1);
  line(originX - 6, originY + 2 - 25, originX, originY + 2 - 25);
  line(originX - 6, originY + 2 - 50, originX, originY + 2 - 50);
  line(originX - 6, originY + 2 - 75, originX, originY + 2 - 75);
  line(originX - 6, originY + 2 - 100, originX, originY + 2 - 100);
 
+
  /* infobox text elements */
+ textSize(11);
+ fill(0);
+ text("Data: University of Minnesota Parking and Transportation Services, Esri, DeLorme, NAVTEQ   Created by: Tobias Fimpel", 850, 895);
  fill(255);
  textSize(24);
  text(title, 720, 675);
@@ -506,20 +520,21 @@ void draw() {
  textSize(10);
  text("50", 564, originY - 11);
 
- /* l=scribble line to show what hue means */
+
+ /* scribble line to show what pink/green color means */
  image(img_green, 530, 725);
  image(img_pink, 530, 745);
 
 
- for (Marker i: zapScanSums) {
-  /* get the dayly summary count property values */
-  Float zapScanSum = Float.parseFloat(i.getStringProperty("Sum_count_as_string")); //get the count
-  Float dayCount = Float.parseFloat(i.getStringProperty("day_of_year")); //get the day-number
-  String dayType = i.getStringProperty("wd_or_we");
-  String t = i.getStringProperty("date_as_string");
 
+ /* loop over zapScanSums list, draw the bars in the chart and play the sound */
+ for (Marker i: zapScanSums) {
+
+  /* get the marker's property values */
+  Float zapScanSum = Float.parseFloat(i.getStringProperty("Sum_count_as_string")); //get the count
+  Float dayCount = Float.parseFloat(i.getStringProperty("day_of_year")); //get the day-number. This is used instead of currentTime. REquires some addtl. data preprocessing but makes it simpler here.
+  String dayType = i.getStringProperty("wd_or_we"); //get the day type
   DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
-  DateTime barTime = new DateTime(f.parseDateTime(t));
 
   /* check point's timeStamp and only if it's smaller than currentTime draw it*/
   if (barTime.isBefore(currentTime.plusDays(1))) {
