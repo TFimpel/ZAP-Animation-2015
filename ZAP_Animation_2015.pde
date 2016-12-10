@@ -1,70 +1,68 @@
-/* import necessary code libraries */
-import de.fhpotsdam.unfolding.*; //import unfolding to deal with mapping
+/* IMPORT NECESSARY CODE LIBRARIES */
+/* import unfolding to deal with mapping */
+import de.fhpotsdam.unfolding.*; 
 import de.fhpotsdam.unfolding.geo.*;
 import de.fhpotsdam.unfolding.utils.*;
 import de.fhpotsdam.unfolding.providers.*;
 import de.fhpotsdam.unfolding.marker.*;
 import de.fhpotsdam.unfolding.data.*;
 
-import java.util.List; //import java.util to deal with data loaded from files
+ 
+/* import java.util to deal with data loaded from files */
+import java.util.List; 
 import java.util.Collections;
 
-import org.joda.time.DateTime; //import joda libraries to deal with time
+
+/* import joda libraries to deal with time */
+import org.joda.time.DateTime;
 import org.joda.time.Hours;
 import org.joda.time.Minutes;
 
-import ddf.minim.*; //import minim libraries to deal with sound
+
+/* import minim libraries to deal with sound*/
+import ddf.minim.*; 
 import ddf.minim.signals.*;
 import ddf.minim.effects.*;
 import ddf.minim.ugens.*;
 
+
+
+/* DECLARE GLOBAL VARIABLES */
+/* audio related variables */
 Minim minim;
 AudioOutput au_out;
 SquareWave sqw;
 LowPassSP lpass;
+float[] numbers;
 
 
-/* instantiate global variables */
+/* color related variables */
+color c_wd = color(51, 160, 44); //green
+color c_we = color(255, 20, 147); //pink
+color c_wd_map = color(50, 190, 50); //lighter because it looks differnet on map than on black 
+color labelcolor = color(0);
+color labelstrokecolor = color(0);
 
-//green and pink
-color c_wd = color(51, 160, 44);
-color c_we = color(255, 20, 147);
-color c_wd_map = color(50, 190, 50); //lighter because it looks differnet on map than on black background
 
-
+/* text element and image related variales */
 String title;
 String subtitle;
 String charttitle;
-
-
-UnfoldingMap map;
-Location tc;
-List < Marker > zapScans; //create global list object for our gps points
-List < Marker > zapScanSums; //create global list object for our daily summaries
-List < Marker > zapScanAvgs; //create global list object for our daily avgs
-
-
-Float maxZapScanCount; //create variables for countRange
-Float minZapScanCount;
-Float avgZapScanCount;
-
-DateTime startTime; //new date variables
-DateTime endTime;
-DateTime currentTime;
-
-float[] numbers;
-
-//Float originX = 530.0;
-Float originX = 730.0;
-Float originY = 860.0;
-
-Float surf_opacity_counter = 0.0;
-
 PImage img;
 PImage img_green;
 PImage img_pink;
 PImage img_surface;
 
+
+/* mapping related variables */
+UnfoldingMap map;
+Location tc;
+List < Marker > zapScans; //create global list object for our gps points
+List < Marker > zapScanAvgs; //create global list object for our daily avgs
+Float maxZapScanCount;
+Float minZapScanCount;
+Float avgZapScanCount;
+Float surf_opacity_counter = 0.0;
 SimplePointMarker umnmpls = new SimplePointMarker(new Location(44.968288, -93.240317));
 SimplePointMarker umnstpl = new SimplePointMarker(new Location(44.978840, -93.188260));
 SimplePointMarker downtownmpls = new SimplePointMarker(new Location(44.977343, -93.267721));
@@ -77,23 +75,39 @@ SimplePointMarker nicolletpark = new SimplePointMarker(new Location(44.988587, -
 SimplePointMarker dinkytown = new SimplePointMarker(new Location(44.982389, -93.239279));
 SimplePointMarker seward = new SimplePointMarker(new Location(44.961252, -93.237767));
 
-color labelcolor = color(0);
-color labelstrokecolor = color(0);
 
-/* processing setup function */
+/* bar chart related variables */
+List < Marker > zapScanSums; //create global list object for our daily summaries
+Float originX = 730.0;
+Float originY = 860.0;
+
+
+/* time animation related variable */
+DateTime startTime;
+DateTime endTime;
+DateTime currentTime;
+
+
+/* PROCESSING SETUP FUNCTION */
 void setup() {
-
+ /* set size to typical laptop screen size minus some*/
  size(1500, 900, P2D);
 
+
+ /* define txt elements */
  title = "ZAP Bicycle Counts 2015, Twin Cities, MN";
  subtitle = "ZAP - An automated bike commuting recognition system logs trips by enrolled cyclists at over 50 reader locations.";
  charttitle = "Total ZAP counts per day, all locations combined.";
 
+
+ /* load images */
  img = loadImage("clef_img.jpg");
  img_green = loadImage("green.png");
  img_pink = loadImage("pink.png");
  img_surface = loadImage("surface.png");
 
+
+ /* set style for map labels */
  umnmpls.setColor(labelcolor);
  umnmpls.setStrokeColor(labelstrokecolor);
  umnmpls.setStrokeWeight(2);
@@ -115,6 +129,7 @@ void setup() {
  como.setStrokeWeight(0);
 
 
+ /* create sound, set frequency to zero so it is not audible until bar chart and map are playing */
  minim = new Minim(this);
  au_out = minim.getLineOut();
  sqw = new SquareWave(261.63, 1, 44100);
@@ -124,52 +139,39 @@ void setup() {
  sqw.setFreq(0);
 
 
+ /* crete the map, use Esri's grey canvas basemap*/
  map = new UnfoldingMap(this, new EsriProvider.WorldGrayCanvas());
-
-
  MapUtils.createDefaultEventDispatcher(this, map);
  tc = new Location(44.970805, -93.234856); //center on UMN Mpls. campus
  map.zoomAndPanTo(tc, 14);
 
- /* Create a List of bar objects using the geojson reader included in unfolding */
- List < Feature > features2 = GeoJSONReader.loadData(this, "XYdailytotals2015.geo.json");
- zapScanSums = MapUtils.createSimpleMarkers(features2); //create markers from each feature and populate our albatross134 list with it
 
- /* Create a List of bar objects using the geojson reader included in unfolding */
- List < Feature > features3 = GeoJSONReader.loadData(this, "XYyearlyTotalsAndAvgs.geo.json");
- zapScanAvgs = MapUtils.createSimpleMarkers(features3); //create markers from each feature and populate our zapScanAvg list with it
+ /* load data from geojson files */
+  List < Feature > features3 = GeoJSONReader.loadData(this, "XYyearlyTotalsAndAvgs.geo.json"); //create a List of feature3 objects reading from  data file
+ zapScanAvgs = MapUtils.createSimpleMarkers(features3); //create markers from each feature3 object and populate our zapScanAvgs list with it
+ 
+ List < Feature > features2 = GeoJSONReader.loadData(this, "XYdailytotals2015.geo.json"); //create a List of feature2 objects reading from  data file
+ zapScanSums = MapUtils.createSimpleMarkers(features2); //create markers from each feature2 object and populate the zapScanSums list with them
 
+ List < Feature > features = GeoJSONReader.loadData(this, "XYstationtotals2015.geo.json"); //create a List of feature objects reading from  data file
+ zapScans = MapUtils.createSimpleMarkers(features); //create markers from each feature and populate the zapScans list with them
 
- /* Create a List of feature objects using the geojson reader included in unfolding */
- List < Feature > features = GeoJSONReader.loadData(this, "XYstationtotals2015.geo.json");
- /* create a set of simple markers from our list of features */
- zapScans = MapUtils.createSimpleMarkers(features); //create markers from each feature and populate our albatross134 list with it
  List < Float > countCollection = new ArrayList < Float > (); //create an empty lists to store all the zapScanCount values
  List < DateTime > dateCollection = new ArrayList < DateTime > (); //create an empty list to store date values
- /* loop over each marker */
- for (Marker i: zapScans) {
-  Float count = Float.parseFloat(i.getStringProperty("count_as_string")); // get the scans_int property value
-  DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
-  DateTime time = new DateTime(f.parseDateTime((i.getStringProperty("date_as_string")))); //get the timestamp attribute for this marker
-  countCollection.add(count); //add the moveSpeed value to the list moveSpeedCollection
-  dateCollection.add(time); // add the time value to the list dateCollection
- }
 
- /* now that the windSpeedCollection and moveSpeedCollection lists are
- populated get the summary statistics and print them in the console */
+ /* determine the start time and count of days of the animation by loop over the zapScans list and then getting these summary stats. Note that */
+ for (Marker i: zapScans) {
+  Float count = Float.parseFloat(i.getStringProperty("count_as_string")); // get this marker's count_as_string property value. This is the day of the year, beginning Jan 1st.
+  DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
+  DateTime time = new DateTime(f.parseDateTime((i.getStringProperty("date_as_string")))); //get this marker's timestamp attribute. Due to data format use DateTimeFormatter
+  countCollection.add(count); //add count value to countCollection list
+  dateCollection.add(time); // add time value to dateCollection list
+ }
  maxZapScanCount = Collections.max(countCollection);
  minZapScanCount = Collections.min(countCollection);
  startTime = Collections.min(dateCollection);
- //endTime = Collections.max(dateCollection);
-
- DateTimeFormatter f3 = DateTimeFormat.forPattern("MM-dd-yyyy");
- DateTime markerTime3 = new DateTime(f3.parseDateTime("1-31-2016"));
-
- //    println("zapScan Count per Day Range: " + minZapScanCount + " to " + maxZapScanCount);
- // println("Date range: " + startTime + " to " + endTime);
  currentTime = startTime; //set the current time to the startTime
- frameRate(4); // frames to be displayed every second. default is 60
- //   frameRate(16) ; // for testing speed it up
+
 
 
  //https://www.seventhstring.com/resources/notefrequencies.html
@@ -286,6 +288,9 @@ void setup() {
  //numbers[71] = 29.14 ; //Bb
  numbers[71] = 30.87; //B
  numbers[72] = 30.87; //B
+
+  frameRate(4); // frames to be displayed every second. default is 60
+ //   frameRate(16) ; // for testing speed it up
 
 }
 
