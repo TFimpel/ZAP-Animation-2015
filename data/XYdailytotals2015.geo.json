@@ -1,0 +1,8041 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 1,
+        "date_as_string": "1-1-2015",
+        "First_date_as_date": "1420070400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "29",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 2,
+        "date_as_string": "1-10-2015",
+        "First_date_as_date": "1420848000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "27",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 3,
+        "date_as_string": "1-11-2015",
+        "First_date_as_date": "1420934400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "33",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 4,
+        "date_as_string": "1-12-2015",
+        "First_date_as_date": "1421020800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "122",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 5,
+        "date_as_string": "1-13-2015",
+        "First_date_as_date": "1421107200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "134",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 6,
+        "date_as_string": "1-14-2015",
+        "First_date_as_date": "1421193600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "242",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 7,
+        "date_as_string": "1-15-2015",
+        "First_date_as_date": "1421280000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "279",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 8,
+        "date_as_string": "1-16-2015",
+        "First_date_as_date": "1421366400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "285",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 9,
+        "date_as_string": "1-17-2015",
+        "First_date_as_date": "1421452800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "68",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 10,
+        "date_as_string": "1-18-2015",
+        "First_date_as_date": "1421539200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "98",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 11,
+        "date_as_string": "1-19-2015",
+        "First_date_as_date": "1421625600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "127",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 12,
+        "date_as_string": "1-2-2015",
+        "First_date_as_date": "1420156800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "61",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 13,
+        "date_as_string": "1-20-2015",
+        "First_date_as_date": "1421712000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "389",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 14,
+        "date_as_string": "1-21-2015",
+        "First_date_as_date": "1421798400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "383",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 15,
+        "date_as_string": "1-22-2015",
+        "First_date_as_date": "1421884800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "501",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 16,
+        "date_as_string": "1-23-2015",
+        "First_date_as_date": "1421971200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "428",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 17,
+        "date_as_string": "1-24-2015",
+        "First_date_as_date": "1422057600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "194",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 18,
+        "date_as_string": "1-25-2015",
+        "First_date_as_date": "1422144000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "94",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 19,
+        "date_as_string": "1-26-2015",
+        "First_date_as_date": "1422230400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "589",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 20,
+        "date_as_string": "1-27-2015",
+        "First_date_as_date": "1422316800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "550",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 21,
+        "date_as_string": "1-28-2015",
+        "First_date_as_date": "1422403200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "416",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 22,
+        "date_as_string": "1-29-2015",
+        "First_date_as_date": "1422489600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "466",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 23,
+        "date_as_string": "1-3-2015",
+        "First_date_as_date": "1420243200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "74",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 24,
+        "date_as_string": "1-30-2015",
+        "First_date_as_date": "1422576000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "385",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 25,
+        "date_as_string": "1-31-2015",
+        "First_date_as_date": "1422662400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "99",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 26,
+        "date_as_string": "1-4-2015",
+        "First_date_as_date": "1420329600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "28",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 27,
+        "date_as_string": "1-5-2015",
+        "First_date_as_date": "1420416000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "119",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 28,
+        "date_as_string": "1-6-2015",
+        "First_date_as_date": "1420502400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "99",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 29,
+        "date_as_string": "1-7-2015",
+        "First_date_as_date": "1420588800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "86",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 30,
+        "date_as_string": "1-8-2015",
+        "First_date_as_date": "1420675200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "78",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 31,
+        "date_as_string": "1-9-2015",
+        "First_date_as_date": "1420761600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "99",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 32,
+        "date_as_string": "10-1-2015",
+        "First_date_as_date": "1443657600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1845",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 33,
+        "date_as_string": "10-10-2015",
+        "First_date_as_date": "1444435200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "528",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 34,
+        "date_as_string": "10-11-2015",
+        "First_date_as_date": "1444521600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "603",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 35,
+        "date_as_string": "10-12-2015",
+        "First_date_as_date": "1444608000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1270",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 36,
+        "date_as_string": "10-13-2015",
+        "First_date_as_date": "1444694400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1712",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 37,
+        "date_as_string": "10-14-2015",
+        "First_date_as_date": "1444780800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1779",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 38,
+        "date_as_string": "10-15-2015",
+        "First_date_as_date": "1444867200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1594",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 39,
+        "date_as_string": "10-16-2015",
+        "First_date_as_date": "1444953600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1190",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 40,
+        "date_as_string": "10-17-2015",
+        "First_date_as_date": "1445040000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "380",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 41,
+        "date_as_string": "10-18-2015",
+        "First_date_as_date": "1445126400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "402",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 42,
+        "date_as_string": "10-19-2015",
+        "First_date_as_date": "1445212800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1748",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 43,
+        "date_as_string": "10-2-2015",
+        "First_date_as_date": "1443744000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1604",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 44,
+        "date_as_string": "10-20-2015",
+        "First_date_as_date": "1445299200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1714",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 45,
+        "date_as_string": "10-21-2015",
+        "First_date_as_date": "1445385600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1878",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 46,
+        "date_as_string": "10-22-2015",
+        "First_date_as_date": "1445472000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1765",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 47,
+        "date_as_string": "10-23-2015",
+        "First_date_as_date": "1445558400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "614",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 48,
+        "date_as_string": "10-24-2015",
+        "First_date_as_date": "1445644800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "449",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 49,
+        "date_as_string": "10-25-2015",
+        "First_date_as_date": "1445731200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "390",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 50,
+        "date_as_string": "10-26-2015",
+        "First_date_as_date": "1445817600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1595",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 51,
+        "date_as_string": "10-27-2015",
+        "First_date_as_date": "1445904000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1491",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 52,
+        "date_as_string": "10-28-2015",
+        "First_date_as_date": "1445990400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "731",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 53,
+        "date_as_string": "10-29-2015",
+        "First_date_as_date": "1446076800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1085",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 54,
+        "date_as_string": "10-3-2015",
+        "First_date_as_date": "1443830400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "529",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 55,
+        "date_as_string": "10-30-2015",
+        "First_date_as_date": "1446163200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1293",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 56,
+        "date_as_string": "10-31-2015",
+        "First_date_as_date": "1446249600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "239",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 57,
+        "date_as_string": "10-4-2015",
+        "First_date_as_date": "1443916800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "427",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 58,
+        "date_as_string": "10-5-2015",
+        "First_date_as_date": "1444003200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1810",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 59,
+        "date_as_string": "10-6-2015",
+        "First_date_as_date": "1444089600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1806",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 60,
+        "date_as_string": "10-7-2015",
+        "First_date_as_date": "1444176000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1916",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 61,
+        "date_as_string": "10-8-2015",
+        "First_date_as_date": "1444262400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1526",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 62,
+        "date_as_string": "10-9-2015",
+        "First_date_as_date": "1444348800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1369",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 63,
+        "date_as_string": "11-1-2015",
+        "First_date_as_date": "1446336000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "375",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 64,
+        "date_as_string": "11-10-2015",
+        "First_date_as_date": "1447113600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1754",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 65,
+        "date_as_string": "11-11-2015",
+        "First_date_as_date": "1447200000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1099",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 66,
+        "date_as_string": "11-12-2015",
+        "First_date_as_date": "1447286400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1044",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 67,
+        "date_as_string": "11-13-2015",
+        "First_date_as_date": "1447372800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1288",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 68,
+        "date_as_string": "11-14-2015",
+        "First_date_as_date": "1447459200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "447",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 69,
+        "date_as_string": "11-15-2015",
+        "First_date_as_date": "1447545600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "419",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 70,
+        "date_as_string": "11-16-2015",
+        "First_date_as_date": "1447632000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "817",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 71,
+        "date_as_string": "11-17-2015",
+        "First_date_as_date": "1447718400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "669",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 72,
+        "date_as_string": "11-18-2015",
+        "First_date_as_date": "1447804800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "938",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 73,
+        "date_as_string": "11-19-2015",
+        "First_date_as_date": "1447891200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1053",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 74,
+        "date_as_string": "11-2-2015",
+        "First_date_as_date": "1446422400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1690",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 75,
+        "date_as_string": "11-20-2015",
+        "First_date_as_date": "1447977600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1000",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 76,
+        "date_as_string": "11-21-2015",
+        "First_date_as_date": "1448064000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "290",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 77,
+        "date_as_string": "11-22-2015",
+        "First_date_as_date": "1448150400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "205",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 78,
+        "date_as_string": "11-23-2015",
+        "First_date_as_date": "1448236800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1285",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 79,
+        "date_as_string": "11-24-2015",
+        "First_date_as_date": "1448323200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1303",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 80,
+        "date_as_string": "11-25-2015",
+        "First_date_as_date": "1448409600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "882",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 81,
+        "date_as_string": "11-26-2015",
+        "First_date_as_date": "1448496000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "59",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 82,
+        "date_as_string": "11-27-2015",
+        "First_date_as_date": "1448582400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "86",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 83,
+        "date_as_string": "11-28-2015",
+        "First_date_as_date": "1448668800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "142",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 84,
+        "date_as_string": "11-29-2015",
+        "First_date_as_date": "1448755200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "164",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 85,
+        "date_as_string": "11-3-2015",
+        "First_date_as_date": "1446508800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1871",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 86,
+        "date_as_string": "11-30-2015",
+        "First_date_as_date": "1448841600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "404",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 87,
+        "date_as_string": "11-4-2015",
+        "First_date_as_date": "1446595200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1670",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 88,
+        "date_as_string": "11-5-2015",
+        "First_date_as_date": "1446681600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1047",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 89,
+        "date_as_string": "11-6-2015",
+        "First_date_as_date": "1446768000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1250",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 90,
+        "date_as_string": "11-7-2015",
+        "First_date_as_date": "1446854400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "357",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 91,
+        "date_as_string": "11-8-2015",
+        "First_date_as_date": "1446940800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "328",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 92,
+        "date_as_string": "11-9-2015",
+        "First_date_as_date": "1447027200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1773",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 93,
+        "date_as_string": "12-1-2015",
+        "First_date_as_date": "1448928000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "491",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 94,
+        "date_as_string": "12-10-2015",
+        "First_date_as_date": "1449705600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1006",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 95,
+        "date_as_string": "12-11-2015",
+        "First_date_as_date": "1449792000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1023",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 96,
+        "date_as_string": "12-12-2015",
+        "First_date_as_date": "1449878400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "266",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 97,
+        "date_as_string": "12-13-2015",
+        "First_date_as_date": "1449964800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "145",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 98,
+        "date_as_string": "12-14-2015",
+        "First_date_as_date": "1450051200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "349",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 99,
+        "date_as_string": "12-15-2015",
+        "First_date_as_date": "1450137600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "624",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 100,
+        "date_as_string": "12-16-2015",
+        "First_date_as_date": "1450224000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "382",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 101,
+        "date_as_string": "12-17-2015",
+        "First_date_as_date": "1450310400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "503",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 102,
+        "date_as_string": "12-18-2015",
+        "First_date_as_date": "1450396800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "423",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 103,
+        "date_as_string": "12-19-2015",
+        "First_date_as_date": "1450483200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "184",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 104,
+        "date_as_string": "12-2-2015",
+        "First_date_as_date": "1449014400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "681",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 105,
+        "date_as_string": "12-20-2015",
+        "First_date_as_date": "1450569600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "113",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 106,
+        "date_as_string": "12-21-2015",
+        "First_date_as_date": "1450656000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "411",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 107,
+        "date_as_string": "12-22-2015",
+        "First_date_as_date": "1450742400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "243",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 108,
+        "date_as_string": "12-23-2015",
+        "First_date_as_date": "1450828800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "80",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 109,
+        "date_as_string": "12-24-2015",
+        "First_date_as_date": "1450915200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "19",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 110,
+        "date_as_string": "12-25-2015",
+        "First_date_as_date": "1451001600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "13",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 111,
+        "date_as_string": "12-26-2015",
+        "First_date_as_date": "1451088000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "13",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 112,
+        "date_as_string": "12-27-2015",
+        "First_date_as_date": "1451174400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "30",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 113,
+        "date_as_string": "12-28-2015",
+        "First_date_as_date": "1451260800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "186",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 114,
+        "date_as_string": "12-29-2015",
+        "First_date_as_date": "1451347200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "104",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 115,
+        "date_as_string": "12-3-2015",
+        "First_date_as_date": "1449100800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "830",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 116,
+        "date_as_string": "12-30-2015",
+        "First_date_as_date": "1451433600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "164",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 117,
+        "date_as_string": "12-31-2015",
+        "First_date_as_date": "1451520000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "127",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 118,
+        "date_as_string": "12-4-2015",
+        "First_date_as_date": "1449187200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "822",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 119,
+        "date_as_string": "12-5-2015",
+        "First_date_as_date": "1449273600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "322",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 120,
+        "date_as_string": "12-6-2015",
+        "First_date_as_date": "1449360000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "258",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 121,
+        "date_as_string": "12-7-2015",
+        "First_date_as_date": "1449446400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1171",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 122,
+        "date_as_string": "12-8-2015",
+        "First_date_as_date": "1449532800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1042",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 123,
+        "date_as_string": "12-9-2015",
+        "First_date_as_date": "1449619200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1207",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 124,
+        "date_as_string": "2-1-2015",
+        "First_date_as_date": "1422748800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "48",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 125,
+        "date_as_string": "2-10-2015",
+        "First_date_as_date": "1423526400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "269",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 126,
+        "date_as_string": "2-11-2015",
+        "First_date_as_date": "1423612800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "332",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 127,
+        "date_as_string": "2-12-2015",
+        "First_date_as_date": "1423699200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "318",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 128,
+        "date_as_string": "2-13-2015",
+        "First_date_as_date": "1423785600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "340",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 129,
+        "date_as_string": "2-14-2015",
+        "First_date_as_date": "1423872000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "61",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 130,
+        "date_as_string": "2-15-2015",
+        "First_date_as_date": "1423958400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "45",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 131,
+        "date_as_string": "2-16-2015",
+        "First_date_as_date": "1424044800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "363",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 132,
+        "date_as_string": "2-17-2015",
+        "First_date_as_date": "1424131200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "315",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 133,
+        "date_as_string": "2-18-2015",
+        "First_date_as_date": "1424217600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "283",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 134,
+        "date_as_string": "2-19-2015",
+        "First_date_as_date": "1424304000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "285",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 135,
+        "date_as_string": "2-2-2015",
+        "First_date_as_date": "1422835200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "397",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 136,
+        "date_as_string": "2-20-2015",
+        "First_date_as_date": "1424390400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "272",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 137,
+        "date_as_string": "2-21-2015",
+        "First_date_as_date": "1424476800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "84",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 138,
+        "date_as_string": "2-22-2015",
+        "First_date_as_date": "1424563200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "41",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 139,
+        "date_as_string": "2-23-2015",
+        "First_date_as_date": "1424649600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "336",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 140,
+        "date_as_string": "2-24-2015",
+        "First_date_as_date": "1424736000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "513",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 141,
+        "date_as_string": "2-25-2015",
+        "First_date_as_date": "1424822400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "525",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 142,
+        "date_as_string": "2-26-2015",
+        "First_date_as_date": "1424908800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "440",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 143,
+        "date_as_string": "2-27-2015",
+        "First_date_as_date": "1424995200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "387",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 144,
+        "date_as_string": "2-28-2015",
+        "First_date_as_date": "1425081600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "115",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 145,
+        "date_as_string": "2-3-2015",
+        "First_date_as_date": "1422921600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "343",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 146,
+        "date_as_string": "2-4-2015",
+        "First_date_as_date": "1423008000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "344",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 147,
+        "date_as_string": "2-5-2015",
+        "First_date_as_date": "1423094400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "329",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 148,
+        "date_as_string": "2-6-2015",
+        "First_date_as_date": "1423180800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "382",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 149,
+        "date_as_string": "2-7-2015",
+        "First_date_as_date": "1423267200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "168",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 150,
+        "date_as_string": "2-8-2015",
+        "First_date_as_date": "1423353600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "118",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 151,
+        "date_as_string": "2-9-2015",
+        "First_date_as_date": "1423440000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "613",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 152,
+        "date_as_string": "3-1-2015",
+        "First_date_as_date": "1425168000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "136",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 153,
+        "date_as_string": "3-10-2015",
+        "First_date_as_date": "1425945600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1323",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 154,
+        "date_as_string": "3-11-2015",
+        "First_date_as_date": "1426032000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1344",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 155,
+        "date_as_string": "3-12-2015",
+        "First_date_as_date": "1426118400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1452",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 156,
+        "date_as_string": "3-13-2015",
+        "First_date_as_date": "1426204800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1255",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 157,
+        "date_as_string": "3-14-2015",
+        "First_date_as_date": "1426291200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "387",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 158,
+        "date_as_string": "3-15-2015",
+        "First_date_as_date": "1426377600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "361",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 159,
+        "date_as_string": "3-16-2015",
+        "First_date_as_date": "1426464000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "982",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 160,
+        "date_as_string": "3-17-2015",
+        "First_date_as_date": "1426550400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "849",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 161,
+        "date_as_string": "3-18-2015",
+        "First_date_as_date": "1426636800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "806",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 162,
+        "date_as_string": "3-19-2015",
+        "First_date_as_date": "1426723200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "885",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 163,
+        "date_as_string": "3-2-2015",
+        "First_date_as_date": "1425254400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "554",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 164,
+        "date_as_string": "3-20-2015",
+        "First_date_as_date": "1426809600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "876",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 165,
+        "date_as_string": "3-21-2015",
+        "First_date_as_date": "1426896000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "200",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 166,
+        "date_as_string": "3-22-2015",
+        "First_date_as_date": "1426982400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "139",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 167,
+        "date_as_string": "3-23-2015",
+        "First_date_as_date": "1427068800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "386",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 168,
+        "date_as_string": "3-24-2015",
+        "First_date_as_date": "1427155200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "716",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 169,
+        "date_as_string": "3-25-2015",
+        "First_date_as_date": "1427241600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "640",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 170,
+        "date_as_string": "3-26-2015",
+        "First_date_as_date": "1427328000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "841",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 171,
+        "date_as_string": "3-27-2015",
+        "First_date_as_date": "1427414400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "755",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 172,
+        "date_as_string": "3-28-2015",
+        "First_date_as_date": "1427500800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "290",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "87"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 173,
+        "date_as_string": "3-29-2015",
+        "First_date_as_date": "1427587200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "209",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 174,
+        "date_as_string": "3-3-2015",
+        "First_date_as_date": "1425340800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "285",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 175,
+        "date_as_string": "3-30-2015",
+        "First_date_as_date": "1427673600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1401",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 176,
+        "date_as_string": "3-31-2015",
+        "First_date_as_date": "1427760000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1677",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 177,
+        "date_as_string": "3-4-2015",
+        "First_date_as_date": "1425427200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "371",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 178,
+        "date_as_string": "3-5-2015",
+        "First_date_as_date": "1425513600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "384",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 179,
+        "date_as_string": "3-6-2015",
+        "First_date_as_date": "1425600000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "480",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 180,
+        "date_as_string": "3-7-2015",
+        "First_date_as_date": "1425686400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "182",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 181,
+        "date_as_string": "3-8-2015",
+        "First_date_as_date": "1425772800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "277",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 182,
+        "date_as_string": "3-9-2015",
+        "First_date_as_date": "1425859200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1097",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 183,
+        "date_as_string": "4-1-2015",
+        "First_date_as_date": "1427846400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1367",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 184,
+        "date_as_string": "4-10-2015",
+        "First_date_as_date": "1428624000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "937",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 185,
+        "date_as_string": "4-11-2015",
+        "First_date_as_date": "1428710400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "651",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 186,
+        "date_as_string": "4-12-2015",
+        "First_date_as_date": "1428796800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "489",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 187,
+        "date_as_string": "4-13-2015",
+        "First_date_as_date": "1428883200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1712",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 188,
+        "date_as_string": "4-14-2015",
+        "First_date_as_date": "1428969600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2003",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 189,
+        "date_as_string": "4-15-2015",
+        "First_date_as_date": "1429056000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1949",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 190,
+        "date_as_string": "4-16-2015",
+        "First_date_as_date": "1429142400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1814",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 191,
+        "date_as_string": "4-17-2015",
+        "First_date_as_date": "1429228800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1728",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 192,
+        "date_as_string": "4-18-2015",
+        "First_date_as_date": "1429315200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "638",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 193,
+        "date_as_string": "4-19-2015",
+        "First_date_as_date": "1429401600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "263",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 194,
+        "date_as_string": "4-2-2015",
+        "First_date_as_date": "1427932800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1539",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 195,
+        "date_as_string": "4-20-2015",
+        "First_date_as_date": "1429488000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1148",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 196,
+        "date_as_string": "4-21-2015",
+        "First_date_as_date": "1429574400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1097",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 197,
+        "date_as_string": "4-22-2015",
+        "First_date_as_date": "1429660800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1227",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 198,
+        "date_as_string": "4-23-2015",
+        "First_date_as_date": "1429747200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1500",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 199,
+        "date_as_string": "4-24-2015",
+        "First_date_as_date": "1429833600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "954",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 200,
+        "date_as_string": "4-25-2015",
+        "First_date_as_date": "1429920000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "547",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 201,
+        "date_as_string": "4-26-2015",
+        "First_date_as_date": "1430006400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "542",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 202,
+        "date_as_string": "4-27-2015",
+        "First_date_as_date": "1430092800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1982",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 203,
+        "date_as_string": "4-28-2015",
+        "First_date_as_date": "1430179200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2019",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 204,
+        "date_as_string": "4-29-2015",
+        "First_date_as_date": "1430265600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2062",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 205,
+        "date_as_string": "4-3-2015",
+        "First_date_as_date": "1428019200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "982",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 206,
+        "date_as_string": "4-30-2015",
+        "First_date_as_date": "1430352000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2022",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 207,
+        "date_as_string": "4-4-2015",
+        "First_date_as_date": "1428105600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "410",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 208,
+        "date_as_string": "4-5-2015",
+        "First_date_as_date": "1428192000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "205",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 209,
+        "date_as_string": "4-6-2015",
+        "First_date_as_date": "1428278400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "759",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "96"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 210,
+        "date_as_string": "4-7-2015",
+        "First_date_as_date": "1428364800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "915",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "97"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 211,
+        "date_as_string": "4-8-2015",
+        "First_date_as_date": "1428451200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1294",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 212,
+        "date_as_string": "4-9-2015",
+        "First_date_as_date": "1428537600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "508",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 213,
+        "date_as_string": "5-1-2015",
+        "First_date_as_date": "1430438400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1666",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 214,
+        "date_as_string": "5-10-2015",
+        "First_date_as_date": "1431216000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "231",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 215,
+        "date_as_string": "5-11-2015",
+        "First_date_as_date": "1431302400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1171",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 216,
+        "date_as_string": "5-12-2015",
+        "First_date_as_date": "1431388800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1515",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 217,
+        "date_as_string": "5-13-2015",
+        "First_date_as_date": "1431475200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1801",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 218,
+        "date_as_string": "5-14-2015",
+        "First_date_as_date": "1431561600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "707",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 219,
+        "date_as_string": "5-15-2015",
+        "First_date_as_date": "1431648000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1366",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 220,
+        "date_as_string": "5-16-2015",
+        "First_date_as_date": "1431734400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "481",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 221,
+        "date_as_string": "5-17-2015",
+        "First_date_as_date": "1431820800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "223",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 222,
+        "date_as_string": "5-18-2015",
+        "First_date_as_date": "1431907200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "871",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 223,
+        "date_as_string": "5-19-2015",
+        "First_date_as_date": "1431993600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1215",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 224,
+        "date_as_string": "5-2-2015",
+        "First_date_as_date": "1430524800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "710",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 225,
+        "date_as_string": "5-20-2015",
+        "First_date_as_date": "1432080000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1426",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 226,
+        "date_as_string": "5-21-2015",
+        "First_date_as_date": "1432166400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1504",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 227,
+        "date_as_string": "5-22-2015",
+        "First_date_as_date": "1432252800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1366",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 228,
+        "date_as_string": "5-23-2015",
+        "First_date_as_date": "1432339200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "395",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 229,
+        "date_as_string": "5-24-2015",
+        "First_date_as_date": "1432425600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "152",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 230,
+        "date_as_string": "5-25-2015",
+        "First_date_as_date": "1432512000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "304",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 231,
+        "date_as_string": "5-26-2015",
+        "First_date_as_date": "1432598400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "742",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 232,
+        "date_as_string": "5-27-2015",
+        "First_date_as_date": "1432684800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1624",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 233,
+        "date_as_string": "5-28-2015",
+        "First_date_as_date": "1432771200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1585",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 234,
+        "date_as_string": "5-29-2015",
+        "First_date_as_date": "1432857600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "769",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 235,
+        "date_as_string": "5-3-2015",
+        "First_date_as_date": "1430611200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "560",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 236,
+        "date_as_string": "5-30-2015",
+        "First_date_as_date": "1432944000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "579",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 237,
+        "date_as_string": "5-31-2015",
+        "First_date_as_date": "1433030400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "425",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 238,
+        "date_as_string": "5-4-2015",
+        "First_date_as_date": "1430697600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2093",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 239,
+        "date_as_string": "5-5-2015",
+        "First_date_as_date": "1430784000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2046",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 240,
+        "date_as_string": "5-6-2015",
+        "First_date_as_date": "1430870400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1369",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 241,
+        "date_as_string": "5-7-2015",
+        "First_date_as_date": "1430956800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1219",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 242,
+        "date_as_string": "5-8-2015",
+        "First_date_as_date": "1431043200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1587",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 243,
+        "date_as_string": "5-9-2015",
+        "First_date_as_date": "1431129600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "636",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 244,
+        "date_as_string": "6-1-2015",
+        "First_date_as_date": "1433116800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1724",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 245,
+        "date_as_string": "6-10-2015",
+        "First_date_as_date": "1433894400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1742",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 246,
+        "date_as_string": "6-11-2015",
+        "First_date_as_date": "1433980800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "603",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 247,
+        "date_as_string": "6-12-2015",
+        "First_date_as_date": "1434067200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1430",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 248,
+        "date_as_string": "6-13-2015",
+        "First_date_as_date": "1434153600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "493",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 249,
+        "date_as_string": "6-14-2015",
+        "First_date_as_date": "1434240000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "532",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 250,
+        "date_as_string": "6-15-2015",
+        "First_date_as_date": "1434326400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1548",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 251,
+        "date_as_string": "6-16-2015",
+        "First_date_as_date": "1434412800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1591",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 252,
+        "date_as_string": "6-17-2015",
+        "First_date_as_date": "1434499200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1192",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 253,
+        "date_as_string": "6-18-2015",
+        "First_date_as_date": "1434585600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1574",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 254,
+        "date_as_string": "6-19-2015",
+        "First_date_as_date": "1434672000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1366",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 255,
+        "date_as_string": "6-2-2015",
+        "First_date_as_date": "1433203200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1780",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 256,
+        "date_as_string": "6-20-2015",
+        "First_date_as_date": "1434758400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "566",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 257,
+        "date_as_string": "6-21-2015",
+        "First_date_as_date": "1434844800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "463",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 258,
+        "date_as_string": "6-22-2015",
+        "First_date_as_date": "1434931200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "696",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 259,
+        "date_as_string": "6-23-2015",
+        "First_date_as_date": "1435017600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1680",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 260,
+        "date_as_string": "6-24-2015",
+        "First_date_as_date": "1435104000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1642",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 261,
+        "date_as_string": "6-25-2015",
+        "First_date_as_date": "1435190400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1582",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 262,
+        "date_as_string": "6-26-2015",
+        "First_date_as_date": "1435276800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1359",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 263,
+        "date_as_string": "6-27-2015",
+        "First_date_as_date": "1435363200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "558",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 264,
+        "date_as_string": "6-28-2015",
+        "First_date_as_date": "1435449600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "421",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 265,
+        "date_as_string": "6-29-2015",
+        "First_date_as_date": "1435536000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1446",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 266,
+        "date_as_string": "6-3-2015",
+        "First_date_as_date": "1433289600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1009",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 267,
+        "date_as_string": "6-30-2015",
+        "First_date_as_date": "1435622400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1590",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 268,
+        "date_as_string": "6-4-2015",
+        "First_date_as_date": "1433376000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1473",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 269,
+        "date_as_string": "6-5-2015",
+        "First_date_as_date": "1433462400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1637",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 270,
+        "date_as_string": "6-6-2015",
+        "First_date_as_date": "1433548800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "466",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 271,
+        "date_as_string": "6-7-2015",
+        "First_date_as_date": "1433635200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "566",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 272,
+        "date_as_string": "6-8-2015",
+        "First_date_as_date": "1433721600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1646",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 273,
+        "date_as_string": "6-9-2015",
+        "First_date_as_date": "1433808000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1610",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 274,
+        "date_as_string": "7-1-2015",
+        "First_date_as_date": "1435708800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1539",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 275,
+        "date_as_string": "7-10-2015",
+        "First_date_as_date": "1436486400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1552",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 276,
+        "date_as_string": "7-11-2015",
+        "First_date_as_date": "1436572800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "470",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 277,
+        "date_as_string": "7-12-2015",
+        "First_date_as_date": "1436659200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "391",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 278,
+        "date_as_string": "7-13-2015",
+        "First_date_as_date": "1436745600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1444",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 279,
+        "date_as_string": "7-14-2015",
+        "First_date_as_date": "1436832000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1636",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 280,
+        "date_as_string": "7-15-2015",
+        "First_date_as_date": "1436918400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1623",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 281,
+        "date_as_string": "7-16-2015",
+        "First_date_as_date": "1437004800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1063",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 282,
+        "date_as_string": "7-17-2015",
+        "First_date_as_date": "1437091200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1213",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 283,
+        "date_as_string": "7-18-2015",
+        "First_date_as_date": "1437177600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "387",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 284,
+        "date_as_string": "7-19-2015",
+        "First_date_as_date": "1437264000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "418",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 285,
+        "date_as_string": "7-2-2015",
+        "First_date_as_date": "1435795200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1417",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 286,
+        "date_as_string": "7-20-2015",
+        "First_date_as_date": "1437350400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1564",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 287,
+        "date_as_string": "7-21-2015",
+        "First_date_as_date": "1437436800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1541",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 288,
+        "date_as_string": "7-22-2015",
+        "First_date_as_date": "1437523200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1719",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 289,
+        "date_as_string": "7-23-2015",
+        "First_date_as_date": "1437609600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1552",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 290,
+        "date_as_string": "7-24-2015",
+        "First_date_as_date": "1437696000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "953",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 291,
+        "date_as_string": "7-25-2015",
+        "First_date_as_date": "1437782400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "522",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 292,
+        "date_as_string": "7-26-2015",
+        "First_date_as_date": "1437868800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "438",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 293,
+        "date_as_string": "7-27-2015",
+        "First_date_as_date": "1437955200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1418",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 294,
+        "date_as_string": "7-28-2015",
+        "First_date_as_date": "1438041600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "705",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 295,
+        "date_as_string": "7-29-2015",
+        "First_date_as_date": "1438128000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1497",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 296,
+        "date_as_string": "7-3-2015",
+        "First_date_as_date": "1435881600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "539",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 297,
+        "date_as_string": "7-30-2015",
+        "First_date_as_date": "1438214400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1531",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 298,
+        "date_as_string": "7-31-2015",
+        "First_date_as_date": "1438300800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1293",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 299,
+        "date_as_string": "7-4-2015",
+        "First_date_as_date": "1435968000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "428",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 300,
+        "date_as_string": "7-5-2015",
+        "First_date_as_date": "1436054400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "347",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 301,
+        "date_as_string": "7-6-2015",
+        "First_date_as_date": "1436140800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "610",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 302,
+        "date_as_string": "7-7-2015",
+        "First_date_as_date": "1436227200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1608",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 303,
+        "date_as_string": "7-8-2015",
+        "First_date_as_date": "1436313600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1750",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 304,
+        "date_as_string": "7-9-2015",
+        "First_date_as_date": "1436400000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1654",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 305,
+        "date_as_string": "8-1-2015",
+        "First_date_as_date": "1438387200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "491",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 306,
+        "date_as_string": "8-10-2015",
+        "First_date_as_date": "1439164800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1457",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 307,
+        "date_as_string": "8-11-2015",
+        "First_date_as_date": "1439251200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1480",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 308,
+        "date_as_string": "8-12-2015",
+        "First_date_as_date": "1439337600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1516",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 309,
+        "date_as_string": "8-13-2015",
+        "First_date_as_date": "1439424000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1281",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 310,
+        "date_as_string": "8-14-2015",
+        "First_date_as_date": "1439510400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1165",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 311,
+        "date_as_string": "8-15-2015",
+        "First_date_as_date": "1439596800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "384",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 312,
+        "date_as_string": "8-16-2015",
+        "First_date_as_date": "1439683200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "260",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 313,
+        "date_as_string": "8-17-2015",
+        "First_date_as_date": "1439769600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1271",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 314,
+        "date_as_string": "8-18-2015",
+        "First_date_as_date": "1439856000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "673",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 315,
+        "date_as_string": "8-19-2015",
+        "First_date_as_date": "1439942400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "886",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 316,
+        "date_as_string": "8-2-2015",
+        "First_date_as_date": "1438473600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "437",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 317,
+        "date_as_string": "8-20-2015",
+        "First_date_as_date": "1440028800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1513",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 318,
+        "date_as_string": "8-21-2015",
+        "First_date_as_date": "1440115200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1448",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 319,
+        "date_as_string": "8-22-2015",
+        "First_date_as_date": "1440201600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "421",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 320,
+        "date_as_string": "8-23-2015",
+        "First_date_as_date": "1440288000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "296",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 321,
+        "date_as_string": "8-24-2015",
+        "First_date_as_date": "1440374400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1280",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 322,
+        "date_as_string": "8-25-2015",
+        "First_date_as_date": "1440460800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1402",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 323,
+        "date_as_string": "8-26-2015",
+        "First_date_as_date": "1440547200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1505",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 324,
+        "date_as_string": "8-27-2015",
+        "First_date_as_date": "1440633600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1417",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 325,
+        "date_as_string": "8-28-2015",
+        "First_date_as_date": "1440720000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1097",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 326,
+        "date_as_string": "8-29-2015",
+        "First_date_as_date": "1440806400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "509",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 327,
+        "date_as_string": "8-3-2015",
+        "First_date_as_date": "1438560000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1525",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 328,
+        "date_as_string": "8-30-2015",
+        "First_date_as_date": "1440892800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "467",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 329,
+        "date_as_string": "8-31-2015",
+        "First_date_as_date": "1440979200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1481",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 330,
+        "date_as_string": "8-4-2015",
+        "First_date_as_date": "1438646400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1605",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 331,
+        "date_as_string": "8-5-2015",
+        "First_date_as_date": "1438732800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1545",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 332,
+        "date_as_string": "8-6-2015",
+        "First_date_as_date": "1438819200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "959",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 333,
+        "date_as_string": "8-7-2015",
+        "First_date_as_date": "1438905600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1140",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 334,
+        "date_as_string": "8-8-2015",
+        "First_date_as_date": "1438992000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "413",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 335,
+        "date_as_string": "8-9-2015",
+        "First_date_as_date": "1439078400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "299",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 336,
+        "date_as_string": "9-1-2015",
+        "First_date_as_date": "1441065600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1509",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 337,
+        "date_as_string": "9-10-2015",
+        "First_date_as_date": "1441843200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1796",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 338,
+        "date_as_string": "9-11-2015",
+        "First_date_as_date": "1441929600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1683",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 339,
+        "date_as_string": "9-12-2015",
+        "First_date_as_date": "1442016000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "637",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 340,
+        "date_as_string": "9-13-2015",
+        "First_date_as_date": "1442102400000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "552",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 341,
+        "date_as_string": "9-14-2015",
+        "First_date_as_date": "1442188800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2061",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 342,
+        "date_as_string": "9-15-2015",
+        "First_date_as_date": "1442275200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2058",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 343,
+        "date_as_string": "9-16-2015",
+        "First_date_as_date": "1442361600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2122",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 344,
+        "date_as_string": "9-17-2015",
+        "First_date_as_date": "1442448000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "849",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 345,
+        "date_as_string": "9-18-2015",
+        "First_date_as_date": "1442534400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1411",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 346,
+        "date_as_string": "9-19-2015",
+        "First_date_as_date": "1442620800000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "614",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 347,
+        "date_as_string": "9-2-2015",
+        "First_date_as_date": "1441152000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1299",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 348,
+        "date_as_string": "9-20-2015",
+        "First_date_as_date": "1442707200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "531",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 349,
+        "date_as_string": "9-21-2015",
+        "First_date_as_date": "1442793600000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2037",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 350,
+        "date_as_string": "9-22-2015",
+        "First_date_as_date": "1442880000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1911",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 351,
+        "date_as_string": "9-23-2015",
+        "First_date_as_date": "1442966400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1491",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 352,
+        "date_as_string": "9-24-2015",
+        "First_date_as_date": "1443052800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1016",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 353,
+        "date_as_string": "9-25-2015",
+        "First_date_as_date": "1443139200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1609",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 354,
+        "date_as_string": "9-26-2015",
+        "First_date_as_date": "1443225600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "579",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 355,
+        "date_as_string": "9-27-2015",
+        "First_date_as_date": "1443312000000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "601",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 356,
+        "date_as_string": "9-28-2015",
+        "First_date_as_date": "1443398400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1843",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 357,
+        "date_as_string": "9-29-2015",
+        "First_date_as_date": "1443484800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2021",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 358,
+        "date_as_string": "9-3-2015",
+        "First_date_as_date": "1441238400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1456",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 359,
+        "date_as_string": "9-30-2015",
+        "First_date_as_date": "1443571200000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2040",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 360,
+        "date_as_string": "9-4-2015",
+        "First_date_as_date": "1441324800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1282",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 361,
+        "date_as_string": "9-5-2015",
+        "First_date_as_date": "1441411200000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "400",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 362,
+        "date_as_string": "9-6-2015",
+        "First_date_as_date": "1441497600000",
+        "wd_or_we": "we",
+        "Sum_count_as_string": "294",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 363,
+        "date_as_string": "9-7-2015",
+        "First_date_as_date": "1441584000000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "551",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 364,
+        "date_as_string": "9-8-2015",
+        "First_date_as_date": "1441670400000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "1913",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_as_string1": "1-1-2016",
+"date_as_string2": "1-31-2015",
+"OBJECTID": 365,
+        "date_as_string": "9-9-2015",
+        "First_date_as_date": "1441756800000",
+        "wd_or_we": "wd",
+        "Sum_count_as_string": "2003",
+        "lat": "0",
+        "long": 0,
+        "day_of_year": "252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}

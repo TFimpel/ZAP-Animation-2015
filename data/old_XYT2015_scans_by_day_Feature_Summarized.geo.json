@@ -1,0 +1,7676 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "1",
+        "Day_as_string": "1-1-2015",
+        "Cnt_Day_as_string": 12,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 29,
+        "Ave_lat": 44.972316,
+        "Ave_long": -93.227343,
+        "countSUM_as_string": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.000122070312,
+          12.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "2",
+        "Day_as_string": "1-10-2015",
+        "Cnt_Day_as_string": 10,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 27,
+        "Ave_lat": 44.973716,
+        "Ave_long": -93.237151,
+        "countSUM_as_string": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000122070312,
+          10.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "3",
+        "Day_as_string": "1-11-2015",
+        "Cnt_Day_as_string": 10,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 33,
+        "Ave_lat": 44.973082,
+        "Ave_long": -93.236205,
+        "countSUM_as_string": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000122070312,
+          10.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "4",
+        "Day_as_string": "1-12-2015",
+        "Cnt_Day_as_string": 14,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 122,
+        "Ave_lat": 44.975809,
+        "Ave_long": -93.232113,
+        "countSUM_as_string": "122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.000122070312,
+          14.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "5",
+        "Day_as_string": "1-13-2015",
+        "Cnt_Day_as_string": 18,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 134,
+        "Ave_lat": 44.975841,
+        "Ave_long": -93.240204,
+        "countSUM_as_string": "134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.000122070312,
+          18.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "6",
+        "Day_as_string": "1-14-2015",
+        "Cnt_Day_as_string": 18,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 242,
+        "Ave_lat": 44.976275,
+        "Ave_long": -93.241259,
+        "countSUM_as_string": "242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.000122070312,
+          18.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "7",
+        "Day_as_string": "1-15-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 279,
+        "Ave_lat": 44.976144,
+        "Ave_long": -93.239708,
+        "countSUM_as_string": "279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "8",
+        "Day_as_string": "1-16-2015",
+        "Cnt_Day_as_string": 21,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 285,
+        "Ave_lat": 44.975555,
+        "Ave_long": -93.240134,
+        "countSUM_as_string": "285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.000122070312,
+          21.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "9",
+        "Day_as_string": "1-17-2015",
+        "Cnt_Day_as_string": 18,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 68,
+        "Ave_lat": 44.975419,
+        "Ave_long": -93.245581,
+        "countSUM_as_string": "68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.000122070312,
+          18.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "10",
+        "Day_as_string": "1-18-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 98,
+        "Ave_lat": 44.975986,
+        "Ave_long": -93.242498,
+        "countSUM_as_string": "98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "11",
+        "Day_as_string": "1-19-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 127,
+        "Ave_lat": 44.975986,
+        "Ave_long": -93.242498,
+        "countSUM_as_string": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "12",
+        "Day_as_string": "1-2-2015",
+        "Cnt_Day_as_string": 18,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 61,
+        "Ave_lat": 44.975194,
+        "Ave_long": -93.234523,
+        "countSUM_as_string": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.000122070312,
+          18.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "13",
+        "Day_as_string": "1-20-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 389,
+        "Ave_lat": 44.97588,
+        "Ave_long": -93.238763,
+        "countSUM_as_string": "389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "14",
+        "Day_as_string": "1-21-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 383,
+        "Ave_lat": 44.976327,
+        "Ave_long": -93.239462,
+        "countSUM_as_string": "383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "15",
+        "Day_as_string": "1-22-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 501,
+        "Ave_lat": 44.976405,
+        "Ave_long": -93.239623,
+        "countSUM_as_string": "501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "16",
+        "Day_as_string": "1-23-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 428,
+        "Ave_lat": 44.97572,
+        "Ave_long": -93.241299,
+        "countSUM_as_string": "428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "17",
+        "Day_as_string": "1-24-2015",
+        "Cnt_Day_as_string": 23,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 194,
+        "Ave_lat": 44.975233,
+        "Ave_long": -93.242203,
+        "countSUM_as_string": "194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.000122070312,
+          23.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "18",
+        "Day_as_string": "1-25-2015",
+        "Cnt_Day_as_string": 21,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 94,
+        "Ave_lat": 44.973169,
+        "Ave_long": -93.241738,
+        "countSUM_as_string": "94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.000122070312,
+          21.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "19",
+        "Day_as_string": "1-26-2015",
+        "Cnt_Day_as_string": 23,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 589,
+        "Ave_lat": 44.976353,
+        "Ave_long": -93.239274,
+        "countSUM_as_string": "589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.000122070312,
+          23.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "20",
+        "Day_as_string": "1-27-2015",
+        "Cnt_Day_as_string": 25,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 550,
+        "Ave_lat": 44.975568,
+        "Ave_long": -93.243021,
+        "countSUM_as_string": "550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.000122070312,
+          25.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "21",
+        "Day_as_string": "1-28-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 416,
+        "Ave_lat": 44.976182,
+        "Ave_long": -93.237367,
+        "countSUM_as_string": "416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "22",
+        "Day_as_string": "1-29-2015",
+        "Cnt_Day_as_string": 23,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 466,
+        "Ave_lat": 44.97514,
+        "Ave_long": -93.238955,
+        "countSUM_as_string": "466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.000122070312,
+          23.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "23",
+        "Day_as_string": "1-3-2015",
+        "Cnt_Day_as_string": 18,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 74,
+        "Ave_lat": 44.972966,
+        "Ave_long": -93.230907,
+        "countSUM_as_string": "74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.000122070312,
+          18.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "24",
+        "Day_as_string": "1-30-2015",
+        "Cnt_Day_as_string": 25,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 385,
+        "Ave_lat": 44.973645,
+        "Ave_long": -93.238393,
+        "countSUM_as_string": "385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.000122070312,
+          25.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "25",
+        "Day_as_string": "1-31-2015",
+        "Cnt_Day_as_string": 19,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 99,
+        "Ave_lat": 44.973858,
+        "Ave_long": -93.248494,
+        "countSUM_as_string": "99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.000122070312,
+          19.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "26",
+        "Day_as_string": "1-4-2015",
+        "Cnt_Day_as_string": 14,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 28,
+        "Ave_lat": 44.971797,
+        "Ave_long": -93.228289,
+        "countSUM_as_string": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.000122070312,
+          14.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "27",
+        "Day_as_string": "1-5-2015",
+        "Cnt_Day_as_string": 15,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 119,
+        "Ave_lat": 44.974251,
+        "Ave_long": -93.238783,
+        "countSUM_as_string": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.000122070312,
+          15.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "28",
+        "Day_as_string": "1-6-2015",
+        "Cnt_Day_as_string": 13,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 99,
+        "Ave_lat": 44.975105,
+        "Ave_long": -93.232219,
+        "countSUM_as_string": "99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000122070312,
+          13.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "29",
+        "Day_as_string": "1-7-2015",
+        "Cnt_Day_as_string": 14,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 86,
+        "Ave_lat": 44.977044,
+        "Ave_long": -93.23307,
+        "countSUM_as_string": "86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.000122070312,
+          14.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "30",
+        "Day_as_string": "1-8-2015",
+        "Cnt_Day_as_string": 9,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 78,
+        "Ave_lat": 44.972044,
+        "Ave_long": -93.238651,
+        "countSUM_as_string": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0001220703125,
+          9.0001220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "31",
+        "Day_as_string": "1-9-2015",
+        "Cnt_Day_as_string": 14,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 99,
+        "Ave_lat": 44.975466,
+        "Ave_long": -93.231519,
+        "countSUM_as_string": "99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.000122070312,
+          14.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "32",
+        "Day_as_string": "10-1-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1845,
+        "Ave_lat": 44.972896,
+        "Ave_long": -93.224789,
+        "countSUM_as_string": "1845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "33",
+        "Day_as_string": "10-10-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 528,
+        "Ave_lat": 44.973879,
+        "Ave_long": -93.226269,
+        "countSUM_as_string": "528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "34",
+        "Day_as_string": "10-11-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 603,
+        "Ave_lat": 44.973304,
+        "Ave_long": -93.231011,
+        "countSUM_as_string": "603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "35",
+        "Day_as_string": "10-12-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1270,
+        "Ave_lat": 44.973039,
+        "Ave_long": -93.223739,
+        "countSUM_as_string": "1270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "36",
+        "Day_as_string": "10-13-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1712,
+        "Ave_lat": 44.971777,
+        "Ave_long": -93.224034,
+        "countSUM_as_string": "1712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "37",
+        "Day_as_string": "10-14-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1779,
+        "Ave_lat": 44.973944,
+        "Ave_long": -93.236225,
+        "countSUM_as_string": "1779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "38",
+        "Day_as_string": "10-15-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1594,
+        "Ave_lat": 44.972791,
+        "Ave_long": -93.221019,
+        "countSUM_as_string": "1594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "39",
+        "Day_as_string": "10-16-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1190,
+        "Ave_lat": 44.973821,
+        "Ave_long": -93.231084,
+        "countSUM_as_string": "1190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "40",
+        "Day_as_string": "10-17-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 380,
+        "Ave_lat": 44.974604,
+        "Ave_long": -93.235137,
+        "countSUM_as_string": "380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "41",
+        "Day_as_string": "10-18-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 402,
+        "Ave_lat": 44.972765,
+        "Ave_long": -93.229137,
+        "countSUM_as_string": "402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "42",
+        "Day_as_string": "10-19-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1748,
+        "Ave_lat": 44.97332,
+        "Ave_long": -93.226067,
+        "countSUM_as_string": "1748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "43",
+        "Day_as_string": "10-2-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1604,
+        "Ave_lat": 44.972054,
+        "Ave_long": -93.227979,
+        "countSUM_as_string": "1604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "44",
+        "Day_as_string": "10-20-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1714,
+        "Ave_lat": 44.972636,
+        "Ave_long": -93.222899,
+        "countSUM_as_string": "1714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "45",
+        "Day_as_string": "10-21-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1878,
+        "Ave_lat": 44.973019,
+        "Ave_long": -93.227301,
+        "countSUM_as_string": "1878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "46",
+        "Day_as_string": "10-22-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1765,
+        "Ave_lat": 44.972993,
+        "Ave_long": -93.226333,
+        "countSUM_as_string": "1765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "47",
+        "Day_as_string": "10-23-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 614,
+        "Ave_lat": 44.974523,
+        "Ave_long": -93.233562,
+        "countSUM_as_string": "614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "48",
+        "Day_as_string": "10-24-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 449,
+        "Ave_lat": 44.974271,
+        "Ave_long": -93.237075,
+        "countSUM_as_string": "449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "49",
+        "Day_as_string": "10-25-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 390,
+        "Ave_lat": 44.975317,
+        "Ave_long": -93.236368,
+        "countSUM_as_string": "390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "50",
+        "Day_as_string": "10-26-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1595,
+        "Ave_lat": 44.974517,
+        "Ave_long": -93.231539,
+        "countSUM_as_string": "1595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "51",
+        "Day_as_string": "10-27-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1491,
+        "Ave_lat": 44.973793,
+        "Ave_long": -93.230435,
+        "countSUM_as_string": "1491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "52",
+        "Day_as_string": "10-28-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 731,
+        "Ave_lat": 44.974828,
+        "Ave_long": -93.238526,
+        "countSUM_as_string": "731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "53",
+        "Day_as_string": "10-29-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1085,
+        "Ave_lat": 44.974186,
+        "Ave_long": -93.234961,
+        "countSUM_as_string": "1085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "54",
+        "Day_as_string": "10-3-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 529,
+        "Ave_lat": 44.974088,
+        "Ave_long": -93.234617,
+        "countSUM_as_string": "529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "55",
+        "Day_as_string": "10-30-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1293,
+        "Ave_lat": 44.973318,
+        "Ave_long": -93.232951,
+        "countSUM_as_string": "1293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "56",
+        "Day_as_string": "10-31-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 239,
+        "Ave_lat": 44.973683,
+        "Ave_long": -93.233481,
+        "countSUM_as_string": "239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "57",
+        "Day_as_string": "10-4-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 427,
+        "Ave_lat": 44.973558,
+        "Ave_long": -93.23061,
+        "countSUM_as_string": "427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "58",
+        "Day_as_string": "10-5-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1810,
+        "Ave_lat": 44.973448,
+        "Ave_long": -93.227194,
+        "countSUM_as_string": "1810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "59",
+        "Day_as_string": "10-6-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1806,
+        "Ave_lat": 44.974178,
+        "Ave_long": -93.236653,
+        "countSUM_as_string": "1806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "60",
+        "Day_as_string": "10-7-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1916,
+        "Ave_lat": 44.971482,
+        "Ave_long": -93.21904,
+        "countSUM_as_string": "1916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "61",
+        "Day_as_string": "10-8-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1526,
+        "Ave_lat": 44.973866,
+        "Ave_long": -93.22833,
+        "countSUM_as_string": "1526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "62",
+        "Day_as_string": "10-9-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1369,
+        "Ave_lat": 44.97384,
+        "Ave_long": -93.235705,
+        "countSUM_as_string": "1369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "63",
+        "Day_as_string": "11-1-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 375,
+        "Ave_lat": 44.973603,
+        "Ave_long": -93.233564,
+        "countSUM_as_string": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "64",
+        "Day_as_string": "11-10-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1754,
+        "Ave_lat": 44.973853,
+        "Ave_long": -93.237694,
+        "countSUM_as_string": "1754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "65",
+        "Day_as_string": "11-11-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1099,
+        "Ave_lat": 44.974107,
+        "Ave_long": -93.235418,
+        "countSUM_as_string": "1099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "66",
+        "Day_as_string": "11-12-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1044,
+        "Ave_lat": 44.976036,
+        "Ave_long": -93.238022,
+        "countSUM_as_string": "1044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "67",
+        "Day_as_string": "11-13-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1288,
+        "Ave_lat": 44.974494,
+        "Ave_long": -93.237812,
+        "countSUM_as_string": "1288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "68",
+        "Day_as_string": "11-14-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 447,
+        "Ave_lat": 44.97307,
+        "Ave_long": -93.22952,
+        "countSUM_as_string": "447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "69",
+        "Day_as_string": "11-15-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 419,
+        "Ave_lat": 44.972179,
+        "Ave_long": -93.227422,
+        "countSUM_as_string": "419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "70",
+        "Day_as_string": "11-16-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 817,
+        "Ave_lat": 44.974829,
+        "Ave_long": -93.236626,
+        "countSUM_as_string": "817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "71",
+        "Day_as_string": "11-17-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 669,
+        "Ave_lat": 44.972907,
+        "Ave_long": -93.228699,
+        "countSUM_as_string": "669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "72",
+        "Day_as_string": "11-18-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 938,
+        "Ave_lat": 44.975789,
+        "Ave_long": -93.240761,
+        "countSUM_as_string": "938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "73",
+        "Day_as_string": "11-19-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1053,
+        "Ave_lat": 44.974447,
+        "Ave_long": -93.239104,
+        "countSUM_as_string": "1053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "74",
+        "Day_as_string": "11-2-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1690,
+        "Ave_lat": 44.972046,
+        "Ave_long": -93.221664,
+        "countSUM_as_string": "1690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "75",
+        "Day_as_string": "11-20-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1000,
+        "Ave_lat": 44.973903,
+        "Ave_long": -93.228137,
+        "countSUM_as_string": "1000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "76",
+        "Day_as_string": "11-21-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 290,
+        "Ave_lat": 44.974691,
+        "Ave_long": -93.235984,
+        "countSUM_as_string": "290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "77",
+        "Day_as_string": "11-22-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 205,
+        "Ave_lat": 44.973606,
+        "Ave_long": -93.231213,
+        "countSUM_as_string": "205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "78",
+        "Day_as_string": "11-23-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1285,
+        "Ave_lat": 44.97574,
+        "Ave_long": -93.238657,
+        "countSUM_as_string": "1285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "79",
+        "Day_as_string": "11-24-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1303,
+        "Ave_lat": 44.974656,
+        "Ave_long": -93.236597,
+        "countSUM_as_string": "1303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "80",
+        "Day_as_string": "11-25-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 882,
+        "Ave_lat": 44.975107,
+        "Ave_long": -93.240514,
+        "countSUM_as_string": "882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "81",
+        "Day_as_string": "11-26-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 59,
+        "Ave_lat": 44.971986,
+        "Ave_long": -93.239007,
+        "countSUM_as_string": "59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "82",
+        "Day_as_string": "11-27-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 86,
+        "Ave_lat": 44.972342,
+        "Ave_long": -93.229644,
+        "countSUM_as_string": "86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "83",
+        "Day_as_string": "11-28-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 142,
+        "Ave_lat": 44.973527,
+        "Ave_long": -93.232769,
+        "countSUM_as_string": "142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "84",
+        "Day_as_string": "11-29-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 164,
+        "Ave_lat": 44.973022,
+        "Ave_long": -93.233582,
+        "countSUM_as_string": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "85",
+        "Day_as_string": "11-3-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1871,
+        "Ave_lat": 44.973676,
+        "Ave_long": -93.234075,
+        "countSUM_as_string": "1871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "86",
+        "Day_as_string": "11-30-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 404,
+        "Ave_lat": 44.974796,
+        "Ave_long": -93.237144,
+        "countSUM_as_string": "404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "87",
+        "Day_as_string": "11-4-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1670,
+        "Ave_lat": 44.971627,
+        "Ave_long": -93.219004,
+        "countSUM_as_string": "1670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "88",
+        "Day_as_string": "11-5-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1047,
+        "Ave_lat": 44.9742,
+        "Ave_long": -93.225749,
+        "countSUM_as_string": "1047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "89",
+        "Day_as_string": "11-6-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1250,
+        "Ave_lat": 44.97531,
+        "Ave_long": -93.240743,
+        "countSUM_as_string": "1250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "90",
+        "Day_as_string": "11-7-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 357,
+        "Ave_lat": 44.972787,
+        "Ave_long": -93.230077,
+        "countSUM_as_string": "357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "91",
+        "Day_as_string": "11-8-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 328,
+        "Ave_lat": 44.973776,
+        "Ave_long": -93.236673,
+        "countSUM_as_string": "328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "92",
+        "Day_as_string": "11-9-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1773,
+        "Ave_lat": 44.972774,
+        "Ave_long": -93.227039,
+        "countSUM_as_string": "1773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "93",
+        "Day_as_string": "12-1-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 491,
+        "Ave_lat": 44.976148,
+        "Ave_long": -93.234694,
+        "countSUM_as_string": "491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "94",
+        "Day_as_string": "12-10-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1006,
+        "Ave_lat": 44.975864,
+        "Ave_long": -93.238341,
+        "countSUM_as_string": "1006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "95",
+        "Day_as_string": "12-11-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1023,
+        "Ave_lat": 44.975857,
+        "Ave_long": -93.233219,
+        "countSUM_as_string": "1023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "96",
+        "Day_as_string": "12-12-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 266,
+        "Ave_lat": 44.973985,
+        "Ave_long": -93.230306,
+        "countSUM_as_string": "266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "97",
+        "Day_as_string": "12-13-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 145,
+        "Ave_lat": 44.975817,
+        "Ave_long": -93.228271,
+        "countSUM_as_string": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "98",
+        "Day_as_string": "12-14-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 349,
+        "Ave_lat": 44.973965,
+        "Ave_long": -93.220214,
+        "countSUM_as_string": "349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "99",
+        "Day_as_string": "12-15-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 624,
+        "Ave_lat": 44.97498,
+        "Ave_long": -93.224322,
+        "countSUM_as_string": "624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "100",
+        "Day_as_string": "12-16-2015",
+        "Cnt_Day_as_string": 23,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 382,
+        "Ave_lat": 44.973144,
+        "Ave_long": -93.226816,
+        "countSUM_as_string": "382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.000122070312,
+          23.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "101",
+        "Day_as_string": "12-17-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 503,
+        "Ave_lat": 44.974285,
+        "Ave_long": -93.23428,
+        "countSUM_as_string": "503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "102",
+        "Day_as_string": "12-18-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 423,
+        "Ave_lat": 44.97365,
+        "Ave_long": -93.231734,
+        "countSUM_as_string": "423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "103",
+        "Day_as_string": "12-19-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 184,
+        "Ave_lat": 44.972531,
+        "Ave_long": -93.227043,
+        "countSUM_as_string": "184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "104",
+        "Day_as_string": "12-2-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 681,
+        "Ave_lat": 44.976133,
+        "Ave_long": -93.231852,
+        "countSUM_as_string": "681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "105",
+        "Day_as_string": "12-20-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 113,
+        "Ave_lat": 44.972428,
+        "Ave_long": -93.220348,
+        "countSUM_as_string": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "106",
+        "Day_as_string": "12-21-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 411,
+        "Ave_lat": 44.970967,
+        "Ave_long": -93.231338,
+        "countSUM_as_string": "411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "107",
+        "Day_as_string": "12-22-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 243,
+        "Ave_lat": 44.974229,
+        "Ave_long": -93.240428,
+        "countSUM_as_string": "243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "108",
+        "Day_as_string": "12-23-2015",
+        "Cnt_Day_as_string": 13,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 80,
+        "Ave_lat": 44.973125,
+        "Ave_long": -93.245496,
+        "countSUM_as_string": "80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000122070312,
+          13.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "109",
+        "Day_as_string": "12-24-2015",
+        "Cnt_Day_as_string": 13,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 19,
+        "Ave_lat": 44.974451,
+        "Ave_long": -93.247723,
+        "countSUM_as_string": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000122070312,
+          13.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "110",
+        "Day_as_string": "12-25-2015",
+        "Cnt_Day_as_string": 7,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 13,
+        "Ave_lat": 44.972582,
+        "Ave_long": -93.256194,
+        "countSUM_as_string": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0001220703125,
+          7.0001220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "111",
+        "Day_as_string": "12-26-2015",
+        "Cnt_Day_as_string": 3,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 13,
+        "Ave_lat": 44.970314,
+        "Ave_long": -93.254936,
+        "countSUM_as_string": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0001220703125,
+          3.0001220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "112",
+        "Day_as_string": "12-27-2015",
+        "Cnt_Day_as_string": 16,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 30,
+        "Ave_lat": 44.97267,
+        "Ave_long": -93.253829,
+        "countSUM_as_string": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.000122070312,
+          16.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "113",
+        "Day_as_string": "12-28-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 186,
+        "Ave_lat": 44.972692,
+        "Ave_long": -93.231091,
+        "countSUM_as_string": "186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "114",
+        "Day_as_string": "12-29-2015",
+        "Cnt_Day_as_string": 16,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 104,
+        "Ave_lat": 44.975275,
+        "Ave_long": -93.228505,
+        "countSUM_as_string": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.000122070312,
+          16.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "115",
+        "Day_as_string": "12-3-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 830,
+        "Ave_lat": 44.973803,
+        "Ave_long": -93.231551,
+        "countSUM_as_string": "830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "116",
+        "Day_as_string": "12-30-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 164,
+        "Ave_lat": 44.974311,
+        "Ave_long": -93.239664,
+        "countSUM_as_string": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "117",
+        "Day_as_string": "12-31-2015",
+        "Cnt_Day_as_string": 23,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 127,
+        "Ave_lat": 44.974948,
+        "Ave_long": -93.240538,
+        "countSUM_as_string": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.000122070312,
+          23.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "118",
+        "Day_as_string": "12-4-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 822,
+        "Ave_lat": 44.974286,
+        "Ave_long": -93.234712,
+        "countSUM_as_string": "822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "119",
+        "Day_as_string": "12-5-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 322,
+        "Ave_lat": 44.972932,
+        "Ave_long": -93.227607,
+        "countSUM_as_string": "322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "120",
+        "Day_as_string": "12-6-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 258,
+        "Ave_lat": 44.974391,
+        "Ave_long": -93.233045,
+        "countSUM_as_string": "258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "121",
+        "Day_as_string": "12-7-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1171,
+        "Ave_lat": 44.974832,
+        "Ave_long": -93.241279,
+        "countSUM_as_string": "1171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "122",
+        "Day_as_string": "12-8-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1042,
+        "Ave_lat": 44.974478,
+        "Ave_long": -93.231578,
+        "countSUM_as_string": "1042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "123",
+        "Day_as_string": "12-9-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1207,
+        "Ave_lat": 44.975379,
+        "Ave_long": -93.240268,
+        "countSUM_as_string": "1207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "124",
+        "Day_as_string": "2-1-2015",
+        "Cnt_Day_as_string": 15,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 48,
+        "Ave_lat": 44.974535,
+        "Ave_long": -93.246666,
+        "countSUM_as_string": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.000122070312,
+          15.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "125",
+        "Day_as_string": "2-10-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 269,
+        "Ave_lat": 44.975861,
+        "Ave_long": -93.239941,
+        "countSUM_as_string": "269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "126",
+        "Day_as_string": "2-11-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 332,
+        "Ave_lat": 44.974706,
+        "Ave_long": -93.238699,
+        "countSUM_as_string": "332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "127",
+        "Day_as_string": "2-12-2015",
+        "Cnt_Day_as_string": 21,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 318,
+        "Ave_lat": 44.974569,
+        "Ave_long": -93.240824,
+        "countSUM_as_string": "318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.000122070312,
+          21.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "128",
+        "Day_as_string": "2-13-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 340,
+        "Ave_lat": 44.973914,
+        "Ave_long": -93.233177,
+        "countSUM_as_string": "340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "129",
+        "Day_as_string": "2-14-2015",
+        "Cnt_Day_as_string": 16,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 61,
+        "Ave_lat": 44.973554,
+        "Ave_long": -93.243959,
+        "countSUM_as_string": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.000122070312,
+          16.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "130",
+        "Day_as_string": "2-15-2015",
+        "Cnt_Day_as_string": 14,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 45,
+        "Ave_lat": 44.975331,
+        "Ave_long": -93.237638,
+        "countSUM_as_string": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.000122070312,
+          14.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "131",
+        "Day_as_string": "2-16-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 363,
+        "Ave_lat": 44.973433,
+        "Ave_long": -93.239883,
+        "countSUM_as_string": "363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "132",
+        "Day_as_string": "2-17-2015",
+        "Cnt_Day_as_string": 21,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 315,
+        "Ave_lat": 44.973862,
+        "Ave_long": -93.23062,
+        "countSUM_as_string": "315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.000122070312,
+          21.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "133",
+        "Day_as_string": "2-18-2015",
+        "Cnt_Day_as_string": 20,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 283,
+        "Ave_lat": 44.975114,
+        "Ave_long": -93.236792,
+        "countSUM_as_string": "283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.000122070312,
+          20.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "134",
+        "Day_as_string": "2-19-2015",
+        "Cnt_Day_as_string": 19,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 285,
+        "Ave_lat": 44.974624,
+        "Ave_long": -93.239417,
+        "countSUM_as_string": "285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.000122070312,
+          19.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "135",
+        "Day_as_string": "2-2-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 397,
+        "Ave_lat": 44.975153,
+        "Ave_long": -93.244031,
+        "countSUM_as_string": "397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "136",
+        "Day_as_string": "2-20-2015",
+        "Cnt_Day_as_string": 21,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 272,
+        "Ave_lat": 44.973002,
+        "Ave_long": -93.221868,
+        "countSUM_as_string": "272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.000122070312,
+          21.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "137",
+        "Day_as_string": "2-21-2015",
+        "Cnt_Day_as_string": 19,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 84,
+        "Ave_lat": 44.974292,
+        "Ave_long": -93.238214,
+        "countSUM_as_string": "84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.000122070312,
+          19.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "138",
+        "Day_as_string": "2-22-2015",
+        "Cnt_Day_as_string": 11,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 41,
+        "Ave_lat": 44.974666,
+        "Ave_long": -93.239279,
+        "countSUM_as_string": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.000122070312,
+          11.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "139",
+        "Day_as_string": "2-23-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 336,
+        "Ave_lat": 44.974756,
+        "Ave_long": -93.241006,
+        "countSUM_as_string": "336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "140",
+        "Day_as_string": "2-24-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 513,
+        "Ave_lat": 44.975558,
+        "Ave_long": -93.24064,
+        "countSUM_as_string": "513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "141",
+        "Day_as_string": "2-25-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 525,
+        "Ave_lat": 44.974922,
+        "Ave_long": -93.242056,
+        "countSUM_as_string": "525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "142",
+        "Day_as_string": "2-26-2015",
+        "Cnt_Day_as_string": 25,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 440,
+        "Ave_lat": 44.97419,
+        "Ave_long": -93.241028,
+        "countSUM_as_string": "440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.000122070312,
+          25.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "143",
+        "Day_as_string": "2-27-2015",
+        "Cnt_Day_as_string": 25,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 387,
+        "Ave_lat": 44.975146,
+        "Ave_long": -93.239374,
+        "countSUM_as_string": "387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.000122070312,
+          25.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "144",
+        "Day_as_string": "2-28-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 115,
+        "Ave_lat": 44.973857,
+        "Ave_long": -93.240971,
+        "countSUM_as_string": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "145",
+        "Day_as_string": "2-3-2015",
+        "Cnt_Day_as_string": 19,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 343,
+        "Ave_lat": 44.975604,
+        "Ave_long": -93.239151,
+        "countSUM_as_string": "343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.000122070312,
+          19.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "146",
+        "Day_as_string": "2-4-2015",
+        "Cnt_Day_as_string": 18,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 344,
+        "Ave_lat": 44.975587,
+        "Ave_long": -93.237324,
+        "countSUM_as_string": "344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.000122070312,
+          18.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "147",
+        "Day_as_string": "2-5-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 329,
+        "Ave_lat": 44.975003,
+        "Ave_long": -93.244141,
+        "countSUM_as_string": "329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "148",
+        "Day_as_string": "2-6-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 382,
+        "Ave_lat": 44.974648,
+        "Ave_long": -93.233578,
+        "countSUM_as_string": "382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "149",
+        "Day_as_string": "2-7-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 168,
+        "Ave_lat": 44.974911,
+        "Ave_long": -93.243804,
+        "countSUM_as_string": "168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "150",
+        "Day_as_string": "2-8-2015",
+        "Cnt_Day_as_string": 22,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 118,
+        "Ave_lat": 44.975109,
+        "Ave_long": -93.240231,
+        "countSUM_as_string": "118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.000122070312,
+          22.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "151",
+        "Day_as_string": "2-9-2015",
+        "Cnt_Day_as_string": 25,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 613,
+        "Ave_lat": 44.97559,
+        "Ave_long": -93.241166,
+        "countSUM_as_string": "613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.000122070312,
+          25.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "152",
+        "Day_as_string": "3-1-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 136,
+        "Ave_lat": 44.97406,
+        "Ave_long": -93.241105,
+        "countSUM_as_string": "136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "153",
+        "Day_as_string": "3-10-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1323,
+        "Ave_lat": 44.974144,
+        "Ave_long": -93.238508,
+        "countSUM_as_string": "1323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "154",
+        "Day_as_string": "3-11-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1344,
+        "Ave_lat": 44.973593,
+        "Ave_long": -93.235418,
+        "countSUM_as_string": "1344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "155",
+        "Day_as_string": "3-12-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1452,
+        "Ave_lat": 44.974375,
+        "Ave_long": -93.237492,
+        "countSUM_as_string": "1452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "156",
+        "Day_as_string": "3-13-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1255,
+        "Ave_lat": 44.974765,
+        "Ave_long": -93.240803,
+        "countSUM_as_string": "1255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "157",
+        "Day_as_string": "3-14-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 387,
+        "Ave_lat": 44.973875,
+        "Ave_long": -93.233618,
+        "countSUM_as_string": "387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "158",
+        "Day_as_string": "3-15-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 361,
+        "Ave_lat": 44.974422,
+        "Ave_long": -93.242688,
+        "countSUM_as_string": "361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "159",
+        "Day_as_string": "3-16-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 982,
+        "Ave_lat": 44.974692,
+        "Ave_long": -93.239582,
+        "countSUM_as_string": "982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "160",
+        "Day_as_string": "3-17-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 849,
+        "Ave_lat": 44.974692,
+        "Ave_long": -93.239582,
+        "countSUM_as_string": "849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "161",
+        "Day_as_string": "3-18-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 806,
+        "Ave_lat": 44.973891,
+        "Ave_long": -93.236361,
+        "countSUM_as_string": "806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "162",
+        "Day_as_string": "3-19-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 885,
+        "Ave_lat": 44.973784,
+        "Ave_long": -93.236459,
+        "countSUM_as_string": "885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "163",
+        "Day_as_string": "3-2-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 554,
+        "Ave_lat": 44.975199,
+        "Ave_long": -93.242015,
+        "countSUM_as_string": "554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "164",
+        "Day_as_string": "3-20-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 876,
+        "Ave_lat": 44.974756,
+        "Ave_long": -93.238246,
+        "countSUM_as_string": "876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "165",
+        "Day_as_string": "3-21-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 200,
+        "Ave_lat": 44.974246,
+        "Ave_long": -93.23858,
+        "countSUM_as_string": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "166",
+        "Day_as_string": "3-22-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 139,
+        "Ave_lat": 44.975251,
+        "Ave_long": -93.246581,
+        "countSUM_as_string": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "167",
+        "Day_as_string": "3-23-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 386,
+        "Ave_lat": 44.974839,
+        "Ave_long": -93.235457,
+        "countSUM_as_string": "386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "168",
+        "Day_as_string": "3-24-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 716,
+        "Ave_lat": 44.974787,
+        "Ave_long": -93.242171,
+        "countSUM_as_string": "716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "169",
+        "Day_as_string": "3-25-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 640,
+        "Ave_lat": 44.975145,
+        "Ave_long": -93.242053,
+        "countSUM_as_string": "640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "170",
+        "Day_as_string": "3-26-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 841,
+        "Ave_lat": 44.975349,
+        "Ave_long": -93.239104,
+        "countSUM_as_string": "841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "171",
+        "Day_as_string": "3-27-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 755,
+        "Ave_lat": 44.974751,
+        "Ave_long": -93.242781,
+        "countSUM_as_string": "755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "172",
+        "Day_as_string": "3-28-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 290,
+        "Ave_lat": 44.974619,
+        "Ave_long": -93.243492,
+        "countSUM_as_string": "290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "173",
+        "Day_as_string": "3-29-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 209,
+        "Ave_lat": 44.974835,
+        "Ave_long": -93.241619,
+        "countSUM_as_string": "209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "174",
+        "Day_as_string": "3-3-2015",
+        "Cnt_Day_as_string": 24,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 285,
+        "Ave_lat": 44.974254,
+        "Ave_long": -93.232366,
+        "countSUM_as_string": "285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.000122070312,
+          24.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "175",
+        "Day_as_string": "3-30-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1401,
+        "Ave_lat": 44.974059,
+        "Ave_long": -93.239919,
+        "countSUM_as_string": "1401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "176",
+        "Day_as_string": "3-31-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1677,
+        "Ave_lat": 44.974336,
+        "Ave_long": -93.239347,
+        "countSUM_as_string": "1677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "177",
+        "Day_as_string": "3-4-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 371,
+        "Ave_lat": 44.974925,
+        "Ave_long": -93.242188,
+        "countSUM_as_string": "371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "178",
+        "Day_as_string": "3-5-2015",
+        "Cnt_Day_as_string": 26,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 384,
+        "Ave_lat": 44.974789,
+        "Ave_long": -93.24085,
+        "countSUM_as_string": "384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.000122070312,
+          26.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "179",
+        "Day_as_string": "3-6-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 480,
+        "Ave_lat": 44.97459,
+        "Ave_long": -93.243505,
+        "countSUM_as_string": "480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "180",
+        "Day_as_string": "3-7-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 182,
+        "Ave_lat": 44.973571,
+        "Ave_long": -93.241564,
+        "countSUM_as_string": "182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "181",
+        "Day_as_string": "3-8-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 277,
+        "Ave_lat": 44.974508,
+        "Ave_long": -93.246592,
+        "countSUM_as_string": "277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "182",
+        "Day_as_string": "3-9-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1097,
+        "Ave_lat": 44.974537,
+        "Ave_long": -93.246298,
+        "countSUM_as_string": "1097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "183",
+        "Day_as_string": "4-1-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1367,
+        "Ave_lat": 44.974149,
+        "Ave_long": -93.238871,
+        "countSUM_as_string": "1367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "184",
+        "Day_as_string": "4-10-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 937,
+        "Ave_lat": 44.975293,
+        "Ave_long": -93.243551,
+        "countSUM_as_string": "937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "185",
+        "Day_as_string": "4-11-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 651,
+        "Ave_lat": 44.97369,
+        "Ave_long": -93.23514,
+        "countSUM_as_string": "651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "186",
+        "Day_as_string": "4-12-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 489,
+        "Ave_lat": 44.975398,
+        "Ave_long": -93.242277,
+        "countSUM_as_string": "489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "187",
+        "Day_as_string": "4-13-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1712,
+        "Ave_lat": 44.974219,
+        "Ave_long": -93.237451,
+        "countSUM_as_string": "1712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "188",
+        "Day_as_string": "4-14-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2003,
+        "Ave_lat": 44.973929,
+        "Ave_long": -93.235666,
+        "countSUM_as_string": "2003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "189",
+        "Day_as_string": "4-15-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1949,
+        "Ave_lat": 44.974305,
+        "Ave_long": -93.23413,
+        "countSUM_as_string": "1949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "190",
+        "Day_as_string": "4-16-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1814,
+        "Ave_lat": 44.974592,
+        "Ave_long": -93.238183,
+        "countSUM_as_string": "1814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "191",
+        "Day_as_string": "4-17-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1728,
+        "Ave_lat": 44.97203,
+        "Ave_long": -93.229443,
+        "countSUM_as_string": "1728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "192",
+        "Day_as_string": "4-18-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 638,
+        "Ave_lat": 44.972877,
+        "Ave_long": -93.230993,
+        "countSUM_as_string": "638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "193",
+        "Day_as_string": "4-19-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 263,
+        "Ave_lat": 44.975308,
+        "Ave_long": -93.242955,
+        "countSUM_as_string": "263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "194",
+        "Day_as_string": "4-2-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1539,
+        "Ave_lat": 44.973988,
+        "Ave_long": -93.234234,
+        "countSUM_as_string": "1539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "195",
+        "Day_as_string": "4-20-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1148,
+        "Ave_lat": 44.975293,
+        "Ave_long": -93.243551,
+        "countSUM_as_string": "1148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "196",
+        "Day_as_string": "4-21-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1097,
+        "Ave_lat": 44.9755,
+        "Ave_long": -93.240112,
+        "countSUM_as_string": "1097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "197",
+        "Day_as_string": "4-22-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1227,
+        "Ave_lat": 44.97398,
+        "Ave_long": -93.235076,
+        "countSUM_as_string": "1227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "198",
+        "Day_as_string": "4-23-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1500,
+        "Ave_lat": 44.97321,
+        "Ave_long": -93.234268,
+        "countSUM_as_string": "1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "199",
+        "Day_as_string": "4-24-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 954,
+        "Ave_lat": 44.975325,
+        "Ave_long": -93.238713,
+        "countSUM_as_string": "954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "200",
+        "Day_as_string": "4-25-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 547,
+        "Ave_lat": 44.972932,
+        "Ave_long": -93.233212,
+        "countSUM_as_string": "547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "201",
+        "Day_as_string": "4-26-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 542,
+        "Ave_lat": 44.9734,
+        "Ave_long": -93.233022,
+        "countSUM_as_string": "542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "202",
+        "Day_as_string": "4-27-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1982,
+        "Ave_lat": 44.973929,
+        "Ave_long": -93.235666,
+        "countSUM_as_string": "1982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "203",
+        "Day_as_string": "4-28-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2019,
+        "Ave_lat": 44.972964,
+        "Ave_long": -93.231595,
+        "countSUM_as_string": "2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "204",
+        "Day_as_string": "4-29-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2062,
+        "Ave_lat": 44.973967,
+        "Ave_long": -93.23492,
+        "countSUM_as_string": "2062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "205",
+        "Day_as_string": "4-3-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 982,
+        "Ave_lat": 44.974987,
+        "Ave_long": -93.234457,
+        "countSUM_as_string": "982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "206",
+        "Day_as_string": "4-30-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2022,
+        "Ave_lat": 44.973376,
+        "Ave_long": -93.227846,
+        "countSUM_as_string": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "207",
+        "Day_as_string": "4-4-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 410,
+        "Ave_lat": 44.975293,
+        "Ave_long": -93.243551,
+        "countSUM_as_string": "410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "208",
+        "Day_as_string": "4-5-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 205,
+        "Ave_lat": 44.974653,
+        "Ave_long": -93.240729,
+        "countSUM_as_string": "205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "209",
+        "Day_as_string": "4-6-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 759,
+        "Ave_lat": 44.974969,
+        "Ave_long": -93.238517,
+        "countSUM_as_string": "759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "210",
+        "Day_as_string": "4-7-2015",
+        "Cnt_Day_as_string": 29,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 915,
+        "Ave_lat": 44.974945,
+        "Ave_long": -93.238885,
+        "countSUM_as_string": "915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.000122070312,
+          29.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "211",
+        "Day_as_string": "4-8-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1294,
+        "Ave_lat": 44.974477,
+        "Ave_long": -93.23537,
+        "countSUM_as_string": "1294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "212",
+        "Day_as_string": "4-9-2015",
+        "Cnt_Day_as_string": 28,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 508,
+        "Ave_lat": 44.974556,
+        "Ave_long": -93.237692,
+        "countSUM_as_string": "508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000122070312,
+          28.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "213",
+        "Day_as_string": "5-1-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1666,
+        "Ave_lat": 44.972656,
+        "Ave_long": -93.231574,
+        "countSUM_as_string": "1666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "214",
+        "Day_as_string": "5-10-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 231,
+        "Ave_lat": 44.97438,
+        "Ave_long": -93.237233,
+        "countSUM_as_string": "231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "215",
+        "Day_as_string": "5-11-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1171,
+        "Ave_lat": 44.974494,
+        "Ave_long": -93.237812,
+        "countSUM_as_string": "1171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "216",
+        "Day_as_string": "5-12-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1515,
+        "Ave_lat": 44.973437,
+        "Ave_long": -93.231984,
+        "countSUM_as_string": "1515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "217",
+        "Day_as_string": "5-13-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1801,
+        "Ave_lat": 44.97271,
+        "Ave_long": -93.234112,
+        "countSUM_as_string": "1801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "218",
+        "Day_as_string": "5-14-2015",
+        "Cnt_Day_as_string": 30,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 707,
+        "Ave_lat": 44.974954,
+        "Ave_long": -93.232112,
+        "countSUM_as_string": "707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000122070312,
+          30.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "219",
+        "Day_as_string": "5-15-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1366,
+        "Ave_lat": 44.973226,
+        "Ave_long": -93.234768,
+        "countSUM_as_string": "1366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "220",
+        "Day_as_string": "5-16-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 481,
+        "Ave_lat": 44.97208,
+        "Ave_long": -93.226693,
+        "countSUM_as_string": "481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "221",
+        "Day_as_string": "5-17-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 223,
+        "Ave_lat": 44.97393,
+        "Ave_long": -93.239002,
+        "countSUM_as_string": "223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "222",
+        "Day_as_string": "5-18-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 871,
+        "Ave_lat": 44.972895,
+        "Ave_long": -93.229673,
+        "countSUM_as_string": "871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "223",
+        "Day_as_string": "5-19-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1215,
+        "Ave_lat": 44.97376,
+        "Ave_long": -93.231089,
+        "countSUM_as_string": "1215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "224",
+        "Day_as_string": "5-2-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 710,
+        "Ave_lat": 44.972313,
+        "Ave_long": -93.22993,
+        "countSUM_as_string": "710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "225",
+        "Day_as_string": "5-20-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1426,
+        "Ave_lat": 44.97238,
+        "Ave_long": -93.230064,
+        "countSUM_as_string": "1426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "226",
+        "Day_as_string": "5-21-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1504,
+        "Ave_lat": 44.972255,
+        "Ave_long": -93.229473,
+        "countSUM_as_string": "1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "227",
+        "Day_as_string": "5-22-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1366,
+        "Ave_lat": 44.973537,
+        "Ave_long": -93.235322,
+        "countSUM_as_string": "1366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "228",
+        "Day_as_string": "5-23-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 395,
+        "Ave_lat": 44.973536,
+        "Ave_long": -93.232219,
+        "countSUM_as_string": "395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "229",
+        "Day_as_string": "5-24-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 152,
+        "Ave_lat": 44.974848,
+        "Ave_long": -93.23787,
+        "countSUM_as_string": "152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "230",
+        "Day_as_string": "5-25-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 304,
+        "Ave_lat": 44.974311,
+        "Ave_long": -93.234489,
+        "countSUM_as_string": "304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "231",
+        "Day_as_string": "5-26-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 742,
+        "Ave_lat": 44.974515,
+        "Ave_long": -93.239713,
+        "countSUM_as_string": "742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "232",
+        "Day_as_string": "5-27-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1624,
+        "Ave_lat": 44.971869,
+        "Ave_long": -93.226467,
+        "countSUM_as_string": "1624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "233",
+        "Day_as_string": "5-28-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1585,
+        "Ave_lat": 44.973494,
+        "Ave_long": -93.235051,
+        "countSUM_as_string": "1585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "234",
+        "Day_as_string": "5-29-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 769,
+        "Ave_lat": 44.974092,
+        "Ave_long": -93.241095,
+        "countSUM_as_string": "769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "235",
+        "Day_as_string": "5-3-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 560,
+        "Ave_lat": 44.973972,
+        "Ave_long": -93.237843,
+        "countSUM_as_string": "560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "236",
+        "Day_as_string": "5-30-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 579,
+        "Ave_lat": 44.97367,
+        "Ave_long": -93.234953,
+        "countSUM_as_string": "579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "237",
+        "Day_as_string": "5-31-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 425,
+        "Ave_lat": 44.972963,
+        "Ave_long": -93.227989,
+        "countSUM_as_string": "425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "238",
+        "Day_as_string": "5-4-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2093,
+        "Ave_lat": 44.97238,
+        "Ave_long": -93.230064,
+        "countSUM_as_string": "2093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "239",
+        "Day_as_string": "5-5-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2046,
+        "Ave_lat": 44.973676,
+        "Ave_long": -93.234075,
+        "countSUM_as_string": "2046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "240",
+        "Day_as_string": "5-6-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1369,
+        "Ave_lat": 44.975177,
+        "Ave_long": -93.237355,
+        "countSUM_as_string": "1369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "241",
+        "Day_as_string": "5-7-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1219,
+        "Ave_lat": 44.974211,
+        "Ave_long": -93.23574,
+        "countSUM_as_string": "1219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "242",
+        "Day_as_string": "5-8-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1587,
+        "Ave_lat": 44.971893,
+        "Ave_long": -93.226178,
+        "countSUM_as_string": "1587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "243",
+        "Day_as_string": "5-9-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 636,
+        "Ave_lat": 44.973768,
+        "Ave_long": -93.234783,
+        "countSUM_as_string": "636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "244",
+        "Day_as_string": "6-1-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1724,
+        "Ave_lat": 44.973005,
+        "Ave_long": -93.231585,
+        "countSUM_as_string": "1724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "245",
+        "Day_as_string": "6-10-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1742,
+        "Ave_lat": 44.973067,
+        "Ave_long": -93.230068,
+        "countSUM_as_string": "1742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "246",
+        "Day_as_string": "6-11-2015",
+        "Cnt_Day_as_string": 27,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 603,
+        "Ave_lat": 44.975712,
+        "Ave_long": -93.236539,
+        "countSUM_as_string": "603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.000122070312,
+          27.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "247",
+        "Day_as_string": "6-12-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1430,
+        "Ave_lat": 44.973273,
+        "Ave_long": -93.231206,
+        "countSUM_as_string": "1430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "248",
+        "Day_as_string": "6-13-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 493,
+        "Ave_lat": 44.975474,
+        "Ave_long": -93.241625,
+        "countSUM_as_string": "493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "249",
+        "Day_as_string": "6-14-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 532,
+        "Ave_lat": 44.972036,
+        "Ave_long": -93.225433,
+        "countSUM_as_string": "532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "250",
+        "Day_as_string": "6-15-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1548,
+        "Ave_lat": 44.971784,
+        "Ave_long": -93.222144,
+        "countSUM_as_string": "1548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "251",
+        "Day_as_string": "6-16-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1591,
+        "Ave_lat": 44.973319,
+        "Ave_long": -93.230927,
+        "countSUM_as_string": "1591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "252",
+        "Day_as_string": "6-17-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1192,
+        "Ave_lat": 44.97316,
+        "Ave_long": -93.227877,
+        "countSUM_as_string": "1192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "253",
+        "Day_as_string": "6-18-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1574,
+        "Ave_lat": 44.972021,
+        "Ave_long": -93.219756,
+        "countSUM_as_string": "1574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "254",
+        "Day_as_string": "6-19-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1366,
+        "Ave_lat": 44.973575,
+        "Ave_long": -93.233284,
+        "countSUM_as_string": "1366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "255",
+        "Day_as_string": "6-2-2015",
+        "Cnt_Day_as_string": 41,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1780,
+        "Ave_lat": 44.971513,
+        "Ave_long": -93.224548,
+        "countSUM_as_string": "1780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.000122070312,
+          41.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "256",
+        "Day_as_string": "6-20-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 566,
+        "Ave_lat": 44.972623,
+        "Ave_long": -93.2262,
+        "countSUM_as_string": "566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "257",
+        "Day_as_string": "6-21-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 463,
+        "Ave_lat": 44.972592,
+        "Ave_long": -93.229165,
+        "countSUM_as_string": "463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "258",
+        "Day_as_string": "6-22-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 696,
+        "Ave_lat": 44.975221,
+        "Ave_long": -93.241842,
+        "countSUM_as_string": "696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "259",
+        "Day_as_string": "6-23-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1680,
+        "Ave_lat": 44.973321,
+        "Ave_long": -93.229034,
+        "countSUM_as_string": "1680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "260",
+        "Day_as_string": "6-24-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1642,
+        "Ave_lat": 44.973496,
+        "Ave_long": -93.2354,
+        "countSUM_as_string": "1642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "261",
+        "Day_as_string": "6-25-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1582,
+        "Ave_lat": 44.972014,
+        "Ave_long": -93.226737,
+        "countSUM_as_string": "1582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "262",
+        "Day_as_string": "6-26-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1359,
+        "Ave_lat": 44.973242,
+        "Ave_long": -93.234842,
+        "countSUM_as_string": "1359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "263",
+        "Day_as_string": "6-27-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 558,
+        "Ave_lat": 44.972678,
+        "Ave_long": -93.230991,
+        "countSUM_as_string": "558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "264",
+        "Day_as_string": "6-28-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 421,
+        "Ave_lat": 44.973401,
+        "Ave_long": -93.234743,
+        "countSUM_as_string": "421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "265",
+        "Day_as_string": "6-29-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1446,
+        "Ave_lat": 44.973841,
+        "Ave_long": -93.233312,
+        "countSUM_as_string": "1446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "266",
+        "Day_as_string": "6-3-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1009,
+        "Ave_lat": 44.973995,
+        "Ave_long": -93.230648,
+        "countSUM_as_string": "1009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "267",
+        "Day_as_string": "6-30-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1590,
+        "Ave_lat": 44.97172,
+        "Ave_long": -93.226938,
+        "countSUM_as_string": "1590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "268",
+        "Day_as_string": "6-4-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1473,
+        "Ave_lat": 44.972982,
+        "Ave_long": -93.2316,
+        "countSUM_as_string": "1473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "269",
+        "Day_as_string": "6-5-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1637,
+        "Ave_lat": 44.973896,
+        "Ave_long": -93.23545,
+        "countSUM_as_string": "1637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "270",
+        "Day_as_string": "6-6-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 466,
+        "Ave_lat": 44.972625,
+        "Ave_long": -93.225754,
+        "countSUM_as_string": "466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "271",
+        "Day_as_string": "6-7-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 566,
+        "Ave_lat": 44.971925,
+        "Ave_long": -93.226685,
+        "countSUM_as_string": "566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "272",
+        "Day_as_string": "6-8-2015",
+        "Cnt_Day_as_string": 40,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1646,
+        "Ave_lat": 44.972238,
+        "Ave_long": -93.227746,
+        "countSUM_as_string": "1646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.000122070312,
+          40.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "273",
+        "Day_as_string": "6-9-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1610,
+        "Ave_lat": 44.972546,
+        "Ave_long": -93.227673,
+        "countSUM_as_string": "1610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "274",
+        "Day_as_string": "7-1-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1539,
+        "Ave_lat": 44.973551,
+        "Ave_long": -93.23547,
+        "countSUM_as_string": "1539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "275",
+        "Day_as_string": "7-10-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1552,
+        "Ave_lat": 44.973194,
+        "Ave_long": -93.22985,
+        "countSUM_as_string": "1552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "276",
+        "Day_as_string": "7-11-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 470,
+        "Ave_lat": 44.973534,
+        "Ave_long": -93.230658,
+        "countSUM_as_string": "470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "277",
+        "Day_as_string": "7-12-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 391,
+        "Ave_lat": 44.973534,
+        "Ave_long": -93.230658,
+        "countSUM_as_string": "391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "278",
+        "Day_as_string": "7-13-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1444,
+        "Ave_lat": 44.973028,
+        "Ave_long": -93.229969,
+        "countSUM_as_string": "1444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "279",
+        "Day_as_string": "7-14-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1636,
+        "Ave_lat": 44.972481,
+        "Ave_long": -93.226175,
+        "countSUM_as_string": "1636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "280",
+        "Day_as_string": "7-15-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1623,
+        "Ave_lat": 44.973702,
+        "Ave_long": -93.234194,
+        "countSUM_as_string": "1623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "281",
+        "Day_as_string": "7-16-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1063,
+        "Ave_lat": 44.973996,
+        "Ave_long": -93.237495,
+        "countSUM_as_string": "1063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "282",
+        "Day_as_string": "7-17-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1213,
+        "Ave_lat": 44.972011,
+        "Ave_long": -93.226255,
+        "countSUM_as_string": "1213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "283",
+        "Day_as_string": "7-18-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 387,
+        "Ave_lat": 44.974307,
+        "Ave_long": -93.234516,
+        "countSUM_as_string": "387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "284",
+        "Day_as_string": "7-19-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 418,
+        "Ave_lat": 44.973161,
+        "Ave_long": -93.227065,
+        "countSUM_as_string": "418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "285",
+        "Day_as_string": "7-2-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1417,
+        "Ave_lat": 44.973739,
+        "Ave_long": -93.236778,
+        "countSUM_as_string": "1417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "286",
+        "Day_as_string": "7-20-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1564,
+        "Ave_lat": 44.973702,
+        "Ave_long": -93.234194,
+        "countSUM_as_string": "1564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "287",
+        "Day_as_string": "7-21-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1541,
+        "Ave_lat": 44.97326,
+        "Ave_long": -93.228413,
+        "countSUM_as_string": "1541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "288",
+        "Day_as_string": "7-22-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1719,
+        "Ave_lat": 44.973702,
+        "Ave_long": -93.234194,
+        "countSUM_as_string": "1719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "289",
+        "Day_as_string": "7-23-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1552,
+        "Ave_lat": 44.972289,
+        "Ave_long": -93.226065,
+        "countSUM_as_string": "1552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "290",
+        "Day_as_string": "7-24-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 953,
+        "Ave_lat": 44.973702,
+        "Ave_long": -93.234194,
+        "countSUM_as_string": "953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "291",
+        "Day_as_string": "7-25-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 522,
+        "Ave_lat": 44.97428,
+        "Ave_long": -93.238026,
+        "countSUM_as_string": "522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "292",
+        "Day_as_string": "7-26-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 438,
+        "Ave_lat": 44.973702,
+        "Ave_long": -93.234194,
+        "countSUM_as_string": "438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "293",
+        "Day_as_string": "7-27-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1418,
+        "Ave_lat": 44.972795,
+        "Ave_long": -93.229458,
+        "countSUM_as_string": "1418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "294",
+        "Day_as_string": "7-28-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 705,
+        "Ave_lat": 44.974405,
+        "Ave_long": -93.235193,
+        "countSUM_as_string": "705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "295",
+        "Day_as_string": "7-29-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1497,
+        "Ave_lat": 44.97326,
+        "Ave_long": -93.228413,
+        "countSUM_as_string": "1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "296",
+        "Day_as_string": "7-3-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 539,
+        "Ave_lat": 44.972959,
+        "Ave_long": -93.232576,
+        "countSUM_as_string": "539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "297",
+        "Day_as_string": "7-30-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1531,
+        "Ave_lat": 44.972011,
+        "Ave_long": -93.226255,
+        "countSUM_as_string": "1531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "298",
+        "Day_as_string": "7-31-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1293,
+        "Ave_lat": 44.973763,
+        "Ave_long": -93.229285,
+        "countSUM_as_string": "1293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "299",
+        "Day_as_string": "7-4-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 428,
+        "Ave_lat": 44.973524,
+        "Ave_long": -93.234896,
+        "countSUM_as_string": "428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "300",
+        "Day_as_string": "7-5-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 347,
+        "Ave_lat": 44.972999,
+        "Ave_long": -93.22959,
+        "countSUM_as_string": "347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "301",
+        "Day_as_string": "7-6-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 610,
+        "Ave_lat": 44.974225,
+        "Ave_long": -93.240048,
+        "countSUM_as_string": "610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "302",
+        "Day_as_string": "7-7-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1608,
+        "Ave_lat": 44.97361,
+        "Ave_long": -93.229631,
+        "countSUM_as_string": "1608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "303",
+        "Day_as_string": "7-8-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1750,
+        "Ave_lat": 44.97404,
+        "Ave_long": -93.235252,
+        "countSUM_as_string": "1750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "304",
+        "Day_as_string": "7-9-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1654,
+        "Ave_lat": 44.972011,
+        "Ave_long": -93.226255,
+        "countSUM_as_string": "1654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "305",
+        "Day_as_string": "8-1-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 491,
+        "Ave_lat": 44.97255,
+        "Ave_long": -93.229914,
+        "countSUM_as_string": "491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "306",
+        "Day_as_string": "8-10-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1457,
+        "Ave_lat": 44.972203,
+        "Ave_long": -93.224936,
+        "countSUM_as_string": "1457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "307",
+        "Day_as_string": "8-11-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1480,
+        "Ave_lat": 44.974121,
+        "Ave_long": -93.238155,
+        "countSUM_as_string": "1480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "308",
+        "Day_as_string": "8-12-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1516,
+        "Ave_lat": 44.972811,
+        "Ave_long": -93.230402,
+        "countSUM_as_string": "1516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "309",
+        "Day_as_string": "8-13-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1281,
+        "Ave_lat": 44.974121,
+        "Ave_long": -93.238155,
+        "countSUM_as_string": "1281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "310",
+        "Day_as_string": "8-14-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1165,
+        "Ave_lat": 44.972815,
+        "Ave_long": -93.228959,
+        "countSUM_as_string": "1165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "311",
+        "Day_as_string": "8-15-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 384,
+        "Ave_lat": 44.973328,
+        "Ave_long": -93.232285,
+        "countSUM_as_string": "384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "312",
+        "Day_as_string": "8-16-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 260,
+        "Ave_lat": 44.973547,
+        "Ave_long": -93.230912,
+        "countSUM_as_string": "260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "313",
+        "Day_as_string": "8-17-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1271,
+        "Ave_lat": 44.973165,
+        "Ave_long": -93.226559,
+        "countSUM_as_string": "1271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "314",
+        "Day_as_string": "8-18-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 673,
+        "Ave_lat": 44.975002,
+        "Ave_long": -93.238594,
+        "countSUM_as_string": "673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "315",
+        "Day_as_string": "8-19-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 886,
+        "Ave_lat": 44.974011,
+        "Ave_long": -93.234496,
+        "countSUM_as_string": "886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "316",
+        "Day_as_string": "8-2-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 437,
+        "Ave_lat": 44.973545,
+        "Ave_long": -93.232663,
+        "countSUM_as_string": "437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "317",
+        "Day_as_string": "8-20-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1513,
+        "Ave_lat": 44.972811,
+        "Ave_long": -93.230402,
+        "countSUM_as_string": "1513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "318",
+        "Day_as_string": "8-21-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1448,
+        "Ave_lat": 44.972634,
+        "Ave_long": -93.2305,
+        "countSUM_as_string": "1448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "319",
+        "Day_as_string": "8-22-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 421,
+        "Ave_lat": 44.97316,
+        "Ave_long": -93.235309,
+        "countSUM_as_string": "421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "320",
+        "Day_as_string": "8-23-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 296,
+        "Ave_lat": 44.973679,
+        "Ave_long": -93.232374,
+        "countSUM_as_string": "296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "321",
+        "Day_as_string": "8-24-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1280,
+        "Ave_lat": 44.974271,
+        "Ave_long": -93.238062,
+        "countSUM_as_string": "1280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "322",
+        "Day_as_string": "8-25-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1402,
+        "Ave_lat": 44.972634,
+        "Ave_long": -93.2305,
+        "countSUM_as_string": "1402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "323",
+        "Day_as_string": "8-26-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1505,
+        "Ave_lat": 44.972634,
+        "Ave_long": -93.22906,
+        "countSUM_as_string": "1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "324",
+        "Day_as_string": "8-27-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1417,
+        "Ave_lat": 44.972634,
+        "Ave_long": -93.2305,
+        "countSUM_as_string": "1417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "325",
+        "Day_as_string": "8-28-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1097,
+        "Ave_lat": 44.973564,
+        "Ave_long": -93.234427,
+        "countSUM_as_string": "1097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "326",
+        "Day_as_string": "8-29-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 509,
+        "Ave_lat": 44.972284,
+        "Ave_long": -93.226696,
+        "countSUM_as_string": "509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "327",
+        "Day_as_string": "8-3-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1525,
+        "Ave_lat": 44.972415,
+        "Ave_long": -93.226955,
+        "countSUM_as_string": "1525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "328",
+        "Day_as_string": "8-30-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 467,
+        "Ave_lat": 44.972284,
+        "Ave_long": -93.226696,
+        "countSUM_as_string": "467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "329",
+        "Day_as_string": "8-31-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1481,
+        "Ave_lat": 44.973204,
+        "Ave_long": -93.234323,
+        "countSUM_as_string": "1481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "330",
+        "Day_as_string": "8-4-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1605,
+        "Ave_lat": 44.972634,
+        "Ave_long": -93.2305,
+        "countSUM_as_string": "1605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "331",
+        "Day_as_string": "8-5-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1545,
+        "Ave_lat": 44.972811,
+        "Ave_long": -93.230402,
+        "countSUM_as_string": "1545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "332",
+        "Day_as_string": "8-6-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 959,
+        "Ave_lat": 44.972509,
+        "Ave_long": -93.22991,
+        "countSUM_as_string": "959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "333",
+        "Day_as_string": "8-7-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1140,
+        "Ave_lat": 44.972811,
+        "Ave_long": -93.230402,
+        "countSUM_as_string": "1140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "334",
+        "Day_as_string": "8-8-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 413,
+        "Ave_lat": 44.973135,
+        "Ave_long": -93.234685,
+        "countSUM_as_string": "413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "335",
+        "Day_as_string": "8-9-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 299,
+        "Ave_lat": 44.974121,
+        "Ave_long": -93.238155,
+        "countSUM_as_string": "299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "336",
+        "Day_as_string": "9-1-2015",
+        "Cnt_Day_as_string": 40,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1509,
+        "Ave_lat": 44.971691,
+        "Ave_long": -93.221012,
+        "countSUM_as_string": "1509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.000122070312,
+          40.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "337",
+        "Day_as_string": "9-10-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1796,
+        "Ave_lat": 44.971888,
+        "Ave_long": -93.220855,
+        "countSUM_as_string": "1796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "338",
+        "Day_as_string": "9-11-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1683,
+        "Ave_lat": 44.972565,
+        "Ave_long": -93.221213,
+        "countSUM_as_string": "1683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "339",
+        "Day_as_string": "9-12-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 637,
+        "Ave_lat": 44.973436,
+        "Ave_long": -93.23382,
+        "countSUM_as_string": "637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "340",
+        "Day_as_string": "9-13-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 552,
+        "Ave_lat": 44.974191,
+        "Ave_long": -93.237141,
+        "countSUM_as_string": "552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "341",
+        "Day_as_string": "9-14-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2061,
+        "Ave_lat": 44.973042,
+        "Ave_long": -93.228232,
+        "countSUM_as_string": "2061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "342",
+        "Day_as_string": "9-15-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2058,
+        "Ave_lat": 44.972176,
+        "Ave_long": -93.224382,
+        "countSUM_as_string": "2058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "343",
+        "Day_as_string": "9-16-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2122,
+        "Ave_lat": 44.972634,
+        "Ave_long": -93.2305,
+        "countSUM_as_string": "2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "344",
+        "Day_as_string": "9-17-2015",
+        "Cnt_Day_as_string": 31,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 849,
+        "Ave_lat": 44.97529,
+        "Ave_long": -93.239045,
+        "countSUM_as_string": "849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000122070312,
+          31.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "345",
+        "Day_as_string": "9-18-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1411,
+        "Ave_lat": 44.974319,
+        "Ave_long": -93.23676,
+        "countSUM_as_string": "1411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "346",
+        "Day_as_string": "9-19-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 614,
+        "Ave_lat": 44.97251,
+        "Ave_long": -93.230417,
+        "countSUM_as_string": "614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "347",
+        "Day_as_string": "9-2-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1299,
+        "Ave_lat": 44.972686,
+        "Ave_long": -93.229812,
+        "countSUM_as_string": "1299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "348",
+        "Day_as_string": "9-20-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 531,
+        "Ave_lat": 44.972939,
+        "Ave_long": -93.234128,
+        "countSUM_as_string": "531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "349",
+        "Day_as_string": "9-21-2015",
+        "Cnt_Day_as_string": 38,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2037,
+        "Ave_lat": 44.972187,
+        "Ave_long": -93.229928,
+        "countSUM_as_string": "2037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.000122070312,
+          38.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "350",
+        "Day_as_string": "9-22-2015",
+        "Cnt_Day_as_string": 39,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1911,
+        "Ave_lat": 44.971669,
+        "Ave_long": -93.220086,
+        "countSUM_as_string": "1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000122070312,
+          39.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "351",
+        "Day_as_string": "9-23-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1491,
+        "Ave_lat": 44.973269,
+        "Ave_long": -93.230906,
+        "countSUM_as_string": "1491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "352",
+        "Day_as_string": "9-24-2015",
+        "Cnt_Day_as_string": 36,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1016,
+        "Ave_lat": 44.97326,
+        "Ave_long": -93.233527,
+        "countSUM_as_string": "1016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.000122070312,
+          36.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "353",
+        "Day_as_string": "9-25-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1609,
+        "Ave_lat": 44.972572,
+        "Ave_long": -93.229403,
+        "countSUM_as_string": "1609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "354",
+        "Day_as_string": "9-26-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 579,
+        "Ave_lat": 44.974319,
+        "Ave_long": -93.235926,
+        "countSUM_as_string": "579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "355",
+        "Day_as_string": "9-27-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 601,
+        "Ave_lat": 44.971453,
+        "Ave_long": -93.224449,
+        "countSUM_as_string": "601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "356",
+        "Day_as_string": "9-28-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1843,
+        "Ave_lat": 44.972874,
+        "Ave_long": -93.227062,
+        "countSUM_as_string": "1843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "357",
+        "Day_as_string": "9-29-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2021,
+        "Ave_lat": 44.973453,
+        "Ave_long": -93.232954,
+        "countSUM_as_string": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "358",
+        "Day_as_string": "9-3-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Thursday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1456,
+        "Ave_lat": 44.974391,
+        "Ave_long": -93.235318,
+        "countSUM_as_string": "1456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "359",
+        "Day_as_string": "9-30-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2040,
+        "Ave_lat": 44.972752,
+        "Ave_long": -93.224897,
+        "countSUM_as_string": "2040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "360",
+        "Day_as_string": "9-4-2015",
+        "Cnt_Day_as_string": 33,
+        "First_DayOfWeek": "Friday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1282,
+        "Ave_lat": 44.974233,
+        "Ave_long": -93.235417,
+        "countSUM_as_string": "1282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.000122070312,
+          33.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "361",
+        "Day_as_string": "9-5-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Saturday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 400,
+        "Ave_lat": 44.973547,
+        "Ave_long": -93.230912,
+        "countSUM_as_string": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "362",
+        "Day_as_string": "9-6-2015",
+        "Cnt_Day_as_string": 32,
+        "First_DayOfWeek": "Sunday",
+        "First_WeOrWd": "weekend",
+        "Sum_scans_int": 294,
+        "Ave_lat": 44.974544,
+        "Ave_long": -93.241634,
+        "countSUM_as_string": "294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.000122070312,
+          32.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "363",
+        "Day_as_string": "9-7-2015",
+        "Cnt_Day_as_string": 34,
+        "First_DayOfWeek": "Monday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 551,
+        "Ave_lat": 44.974165,
+        "Ave_long": -93.236856,
+        "countSUM_as_string": "551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000122070312,
+          34.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "364",
+        "Day_as_string": "9-8-2015",
+        "Cnt_Day_as_string": 37,
+        "First_DayOfWeek": "Tuesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 1913,
+        "Ave_lat": 44.972777,
+        "Ave_long": -93.226662,
+        "countSUM_as_string": "1913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.000122070312,
+          37.000122070312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "365",
+        "Day_as_string": "9-9-2015",
+        "Cnt_Day_as_string": 35,
+        "First_DayOfWeek": "Wednesday",
+        "First_WeOrWd": "weekday",
+        "Sum_scans_int": 2003,
+        "Ave_lat": 44.972948,
+        "Ave_long": -93.227279,
+        "countSUM_as_string": "2003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000122070312,
+          35.000122070312
+        ]
+      }
+    }
+  ]
+}
