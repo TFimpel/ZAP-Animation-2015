@@ -123,7 +123,7 @@ void setup() {
     subtitle = "ZAP - An automated bike commuting recognition system logs trips by enrolled cyclists at over 50 reader locations.";
     charttitle = "Total ZAP counts per day, all locations combined.";
     credits = "";
-img = loadImage("clef3.jpg");
+img = loadImage("clef_img.jpg");
 img_green = loadImage("green.png");
 img_pink = loadImage("pink.png");
 img_surface = loadImage("surface.png");
