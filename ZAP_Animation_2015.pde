@@ -1,23 +1,5 @@
 
-//record video via saveFrame. 2 full loops worth of images (cause first ;oop takes a while to load tiles)
-//record audio via windows voicerecorder (2 full loops)
 
-//via voicerecorder cut audio to begin exactly with the first sound and end after the last sound of a loop.
-//go into the frames folder and delete images as neccessary to get a good full loop of images, all same file size
-
-//convert the auio file to a mp3 using http://audio.online-convert.com/convert-to-mp3
-//use the processing moviemaker tool
-//convert the output to a movie .mp4 fle using http://video.online-convert.com/convert-to-mp4
-
-//GETTING auido and videio to sync will be the challenge.
-
-/*TODO:
-when displaying avgs make a progress indicator so ppl know it tarts again. make it display for shorter amount of time.
-figure out good recording technique
-*/
-
-/* Imports GPS points from GeoJSON file and draws them on map using pgraphics
- */
 
 /* import necessary code libraries */
 import de.fhpotsdam.unfolding.*;
@@ -47,25 +29,15 @@ LowPassSP lpass ;
 
 /* global variables */
 
-//green and pink (colorbrewer)      //good! b
-//color c_wd = color(127,188,65);
-//color c_we = color(255,20,147);
- 
-//green and pink (colorbrewer)      //good! a
-//color c_wd = color(51,160,44); //darker
-//color c_we = color(197,27,125);
-
-//green and pink (colorbrewer)      //good! c
-color c_wd = color(51,160,44); //darker
+//green and pink
+color c_wd = color(51,160,44);
 color c_we = color(255,20,147);
-color c_wd_map = color(50,190,50); //lighter because it loks differnet on map
-
+color c_wd_map = color(50,190,50); //lighter because it looks differnet on map than on black background
 
 
 String title;
 String subtitle;
 String charttitle;
-String credits;
 
 
 UnfoldingMap map; 
@@ -83,7 +55,6 @@ DateTime startTime; //new date variables
 DateTime endTime;
 DateTime currentTime;
 
-Float barX;
 float[] numbers ;
 
 //Float originX = 530.0;
@@ -115,14 +86,12 @@ color labelstrokecolor = color(0);
 /* processing setup function */
 void setup() {
 
-    //size(1600, 900, P2D); //16:9
-    //size(1300, 900, P2D); 
         size(1500, 900, P2D); 
 
     title = "ZAP Bicycle Counts 2015, Twin Cities, MN";
     subtitle = "ZAP - An automated bike commuting recognition system logs trips by enrolled cyclists at over 50 reader locations.";
     charttitle = "Total ZAP counts per day, all locations combined.";
-    credits = "";
+
 img = loadImage("clef_img.jpg");
 img_green = loadImage("green.png");
 img_pink = loadImage("pink.png");
@@ -148,8 +117,6 @@ como.setColor(labelcolor);
 como.setStrokeColor(labelstrokecolor);
 como.setStrokeWeight(0);
 
-
-    barX = 31.0;//don't need this actually
     
      minim = new Minim(this) ;
      au_out = minim.getLineOut() ;
@@ -160,30 +127,23 @@ como.setStrokeWeight(0);
      sqw.setFreq(0);
 
     
-    //map = new UnfoldingMap(this, new Microsoft.AerialProvider()); 
-    //map = new UnfoldingMap(this, new Microsoft.RoadProvider());
     map = new UnfoldingMap(this, new EsriProvider.WorldGrayCanvas());
-     //map = new UnfoldingMap(this, new EsriProvider.WorldShadedRelief());
      
      
     MapUtils.createDefaultEventDispatcher(this, map);    
-    //tc = new Location(44.970805, -93.224866); //center on UMN Mpls. campus 
-    tc = new Location(44.970805, -93.234856);
+    tc = new Location(44.970805, -93.234856); //center on UMN Mpls. campus
     map.zoomAndPanTo(tc,14);
     
     /* Create a List of bar objects using the geojson reader included in unfolding */    
-//List<Feature> features2 = GeoJSONReader.loadData(this, "XYT2015_scans_by_day_Feature_Summarized.geo.json");
 List<Feature> features2 = GeoJSONReader.loadData(this, "XYdailytotals2015.geo.json");
     zapScanSums = MapUtils.createSimpleMarkers(features2); //create markers from each feature and populate our albatross134 list with it
 
     /* Create a List of bar objects using the geojson reader included in unfolding */    
-//List<Feature> features2 = GeoJSONReader.loadData(this, "XYT2015_scans_by_day_Feature_Summarized.geo.json");
 List<Feature> features3 = GeoJSONReader.loadData(this, "XYyearlyTotalsAndAvgs.geo.json");
     zapScanAvgs = MapUtils.createSimpleMarkers(features3); //create markers from each feature and populate our zapScanAvg list with it
     
     
     /* Create a List of feature objects using the geojson reader included in unfolding */
-    //List<Feature> features = GeoJSONReader.loadData(this, "PGeoJSON2015_zapScans_by_day.json");
     List<Feature> features = GeoJSONReader.loadData(this, "XYstationtotals2015.geo.json");
     /* create a set of simple markers from our list of features */
     zapScans = MapUtils.createSimpleMarkers(features); //create markers from each feature and populate our albatross134 list with it
@@ -352,8 +312,7 @@ void draw() {
 
 
     /* when end of trajectory is reached start over  */
-    
-    
+  
            DateTimeFormatter after2015 = DateTimeFormat.forPattern("MM-dd-yyyy");
        DateTime after2015Time = new DateTime(after2015.parseDateTime("01-01-2016"));
        DateTime after2015TimePlus = new DateTime(after2015.parseDateTime("02-01-2016"));
@@ -429,10 +388,7 @@ tint(255, surf_opacity_counter);  // Display at half opacity
        DateTimeFormatter f2 = DateTimeFormat.forPattern("MM-dd-yyyy");
        DateTime markerTime2 = new DateTime(f2.parseDateTime(i.getStringProperty("date_as_string2")));
        /* check point's timeStamp and only if it's smaller than currentTime draw it*/
-       //if(markerTime.isBefore(currentTime)){
        if (currentTime.isAfter(markerTime1.plusDays(1))){
-
-
 
          ScreenPosition coords = map.getScreenPosition(i.getLocation()); //Translates a marker's lat/long values to our local screen coordinates
          Float pointStroke1 = map(zapScanCount_wd, minZapScanCount, maxZapScanCount, 0, 100); //the map function in Processing normalizes a given values.
@@ -445,7 +401,6 @@ tint(255, surf_opacity_counter);  // Display at half opacity
          stroke(c_we);
          strokeWeight(2);
          ellipse(coords.x,coords.y,pointStroke2,pointStroke2);//draw an ellipse and set the size based on the point's pointStroke value 
-         
          
          /* labels. we label placement is dependent on number of digits in zapScanCount_wd */
          textSize(16);
@@ -606,10 +561,7 @@ tint(255, surf_opacity_counter);  // Display at half opacity
                Float dayCount = Float.parseFloat(i.getStringProperty("day_of_year"));  //get the day-number
                String dayType = i.getStringProperty("wd_or_we");
                String t = i.getStringProperty("date_as_string");
-               /*println("dayCount:");
-               println(dayCount);
-               println("zapScanSum:");
-               println(zapScanSum);*/
+
                DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
                DateTime barTime = new DateTime(f.parseDateTime(t));
                
@@ -667,12 +619,7 @@ tint(255, surf_opacity_counter);  // Display at half opacity
       currentTime = startTime; //set currentTime to startTime
     }
     
-    /* Add a legend that shows the time 
-    DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
-LocalDateTime dateTime = LocalDateTime.of(1986, Month.APRIL, 8, 12, 30);
-String formattedDateTime = dateTime.format(formatter); // "1986-04-08 12:30"
-    */
-    
+    /* to export frames to images for input in Processing's Movie Maker tool */
     //saveFrame("frames/####.png");
 
 }
