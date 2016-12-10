@@ -66,7 +66,6 @@ Float surf_opacity_counter = 0.0;
 SimplePointMarker umnmpls = new SimplePointMarker(new Location(44.968288, -93.240317));
 SimplePointMarker umnstpl = new SimplePointMarker(new Location(44.978840, -93.188260));
 SimplePointMarker downtownmpls = new SimplePointMarker(new Location(44.977343, -93.267721));
-SimplePointMarker mctc = new SimplePointMarker(new Location(44.954411, -93.268461));
 SimplePointMarker como = new SimplePointMarker(new Location(44.989302, -93.213246));
 SimplePointMarker midtown = new SimplePointMarker(new Location(44.948575, -93.264897));
 SimplePointMarker uptown = new SimplePointMarker(new Location(44.957005, -93.294430));
@@ -120,10 +119,6 @@ void setup() {
  downtownmpls.setStrokeColor(labelstrokecolor);
  downtownmpls.setStrokeWeight(0);
 
- mctc.setColor(labelcolor);
- mctc.setStrokeColor(labelstrokecolor);
- mctc.setStrokeWeight(0);
-
  como.setColor(labelcolor);
  como.setStrokeColor(labelstrokecolor);
  como.setStrokeWeight(0);
@@ -173,125 +168,85 @@ void setup() {
  currentTime = startTime; //set the current time to the startTime
 
 
-
- //https://www.seventhstring.com/resources/notefrequencies.html
- // and https://en.wikipedia.org/wiki/D_major D major (or the key of D) is a major scale based on D, consisting of the pitches D, E, F♯, G, A, B, and C♯
+ /* createan array of floating point values and populate it with frequencies corresponding to the notes in the musical scale Dm ajor. */
  numbers = new float[73];
- //numbers[0] = 1R30.8 ;  //C
- numbers[0] = 138.6; //C#
- numbers[1] = 138.6; //C#
- numbers[2] = 146.8; //D
- //numbers[3] = 155.6  ; //Eb
- numbers[3] = 164.8; //E
- numbers[4] = 164.8; //E
- //numbers[5] = 174.6  ; //F
- numbers[5] = 185.0; //F#
- numbers[6] = 185.0; //F#
- numbers[7] = 196.0; //G
- numbers[8] = 196.0; //G
- //numbers[8] = 207.7  ; //G#
- numbers[9] = 220.0; //A
- //numbers[10] = 233.1  ; //Bb
- numbers[10] = 246.9; //B
- numbers[11] = 246.9; //B
+ numbers[0] = 17.32; //C#
+ numbers[1] = 17.32; //C#
+ numbers[2] = 18.35; //D
+ numbers[3] = 20.60; //E
+ numbers[4] = 20.60; //E
+ numbers[5] = 23.12; //F#
+ numbers[6] = 23.12; //F#
+ numbers[7] = 24.50; //G
+ numbers[8] = 24.50; //G
+ numbers[9] = 27.50; //A
+ numbers[10] = 30.87; //B
+ numbers[11] = 30.87; //B
+ numbers[12] = 34.65; //C#
+ numbers[13] = 34.65; //C#
+ numbers[14] = 36.71; //D
+ numbers[15] = 41.20; //E
+ numbers[16] = 41.20; //E
+ numbers[17] = 46.25; //F#
+ numbers[18] = 46.25; //F#
+ numbers[19] = 49.00; //G
+ numbers[20] = 49.00; //G
+ numbers[21] = 55.00; //A
+ numbers[22] = 61.74; //B
+ numbers[23] = 61.74; //B
+ numbers[24] = 69.30; //C#
+ numbers[25] = 69.30; //C#
+ numbers[26] = 73.42; //D
+ numbers[27] = 82.41; //E
+ numbers[28] = 82.41; //E
+ numbers[29] = 92.50; //F#
+ numbers[30] = 92.50; //F#
+ numbers[31] = 98.00; //G
+ numbers[32] = 98.00; //G
+ numbers[33] = 110.0; //A
+ numbers[34] = 123.5; //B
+ numbers[35] = 123.5; //B
+ numbers[36] = 138.6; //C#
+ numbers[37] = 138.6; //C#
+ numbers[38] = 146.8; //D
+ numbers[39] = 164.8; //E
+ numbers[40] = 164.8; //E
+ numbers[41] = 185.0; //F#
+ numbers[42] = 185.0; //F#
+ numbers[43] = 196.0; //G
+ numbers[44] = 196.0; //G
+ numbers[45] = 220.0; //A
+ numbers[46] = 246.9; //B
+ numbers[47] = 246.9; //B
+ numbers[48] = 277.2; //C#
+ numbers[49] = 277.2; //C#
+ numbers[50] = 293.7; //D
+ numbers[51] = 329.6; //E
+ numbers[52] = 329.6; //E
+ numbers[53] = 370.0; //F#
+ numbers[54] = 370.0; //F#
+ numbers[55] = 392.0; //G
+ numbers[56] = 392.0; //G
+ numbers[57] = 440.0; //A
+ numbers[58] = 493.9; //B
+ numbers[59] = 493.9; //B
+ numbers[60] = 554.4; //C#
+ numbers[61] = 554.4; //C#
+ numbers[62] = 587.3; //D
+ numbers[63] = 659.3; //E
+ numbers[64] = 659.3; //E
+ numbers[65] = 740.0; //F#
+ numbers[66] = 740.0; //F#
+ numbers[67] = 784.0; //G
+ numbers[68] = 784.0; //G
+ numbers[69] = 880.0; //A
+ numbers[70] = 987.8; //B
+ numbers[71] = 987.8; //B
+ numbers[72] = 1109; //C#
 
- //numbers[12] = 261.6 ;  //C
- numbers[12] = 277.2; //C#
- numbers[13] = 277.2; //C#
- numbers[14] = 293.7; //D
- //numbers[15] = 311.1  ; //Eb
- numbers[15] = 329.6; //E
- numbers[16] = 329.6; //E
- //numbers[17] = 349.2  ; //F
- numbers[17] = 370.0; //F#
- numbers[18] = 370.0; //F#
- numbers[19] = 392.0; //G
- numbers[20] = 392.0; //G
- //numbers[20] = 415.3  ; //G#
- numbers[21] = 440.0; //A
- //numbers[22] = 466.2  ; //Bb
- numbers[22] = 493.9; //B
- numbers[23] = 493.9; //B
 
- //numbers[24] = 523.3 ;  //C
- numbers[24] = 554.4; //C#
- numbers[25] = 554.4; //C#
- numbers[26] = 587.3; //D
- //numbers[27] = 622.3  ; //Eb
- numbers[27] = 659.3; //E
- numbers[28] = 659.3; //E
- //numbers[29] = 698.5  ; //F
- numbers[29] = 740.0; //F#
- numbers[30] = 740.0; //F#
- numbers[31] = 784.0; //G
- numbers[32] = 784.0; //G
- //numbers[32] = 830.6  ; //G#
- numbers[33] = 880.0; //A
- //numbers[34] = 932.3 ; //Bb
- numbers[34] = 987.8; //B
- numbers[35] = 987.8; //B
-
- //numbers[36] =1047;  //C
- numbers[36] = 1109; //C#
-
-
- //numbers[37] = 65.41  ; //C
- numbers[37] = 69.30; //C#
- numbers[38] = 69.30; //C#
- numbers[39] = 73.42; //D
- //numbers[40] = 77.78  ; //Eb
- numbers[40] = 82.41; //E
- numbers[41] = 82.41; //E
- //numbers[42] = 87.31  ; //F
- numbers[42] = 92.50; //F#
- numbers[43] = 92.50; //F#
- numbers[44] = 98.00; //G
- numbers[45] = 98.00; //G
- //numbers[45] = 103.8  ; //G#
- numbers[46] = 110.0; //A
- //numbers[47] = 116.5  ; //Bb
- numbers[47] = 123.5; //B
- numbers[48] = 123.5; //B
-
- //numbers[49] = 32.70  ; //C
- numbers[49] = 34.65; //C#
- numbers[50] = 34.65; //C#
- numbers[51] = 36.71; //D
- //numbers[52] = 38.89  ; //Eb
- numbers[52] = 41.20; //E
- numbers[53] = 41.20; //E
- //numbers[54] = 43.65  ; //F
- numbers[54] = 46.25; //F#
- numbers[55] = 46.25; //F#
- numbers[56] = 49.00; //G
- numbers[57] = 49.00; //G
- //numbers[57] = 51.91  ; //G#
- numbers[58] = 55.00; //A
- //numbers[59] = 58.27  ; //Bb
- numbers[59] = 61.74; //B
- numbers[60] = 61.74; //B
-
- //numbers[61] = 16.35 ; //C
- numbers[61] = 17.32; //C#
- numbers[62] = 17.32; //C#
- numbers[63] = 18.35; //D
- //numbers[64] = 19.45  ; //Eb
- numbers[64] = 20.60; //E
- numbers[65] = 20.60; //E
- //numbers[66] = 21.83 ; //F
- numbers[66] = 23.12; //F#
- numbers[67] = 23.12; //F#
- numbers[68] = 24.50; //G
- numbers[69] = 24.50; //G
- //numbers[69] = 25.96 ; //G#
- numbers[70] = 27.50; //A
- //numbers[71] = 29.14 ; //Bb
- numbers[71] = 30.87; //B
- numbers[72] = 30.87; //B
-
-  frameRate(4); // frames to be displayed every second. default is 60
- //   frameRate(16) ; // for testing speed it up
-
+ /* set the speed of the animation */
+ frameRate(4); // frames to be displayed every second. default is 60
 }
 
 /* processing draw function */
@@ -300,7 +255,6 @@ void draw() {
  textSize(14);
  textLeading(18);
  fill(0, 0, 0);
- //text("Minneapolis\nCommunity\n& Technical\n  College", mctc.getScreenPosition(map).x, mctc.getScreenPosition(map).y);
  text(" Downtown\nMinneapolis", downtownmpls.getScreenPosition(map).x, downtownmpls.getScreenPosition(map).y);
  text("University of Minnesota\n     St. Paul Campus", umnstpl.getScreenPosition(map).x, umnstpl.getScreenPosition(map).y);
  text("University of Minnesota\n  Minneapolis Campus", umnmpls.getScreenPosition(map).x, umnmpls.getScreenPosition(map).y);
