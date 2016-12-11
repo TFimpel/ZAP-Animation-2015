@@ -33,7 +33,7 @@ Minim minim;
 AudioOutput au_out;
 SquareWave sqw;
 LowPassSP lpass;
-float[] numbers;
+float[] frequencies;
 
 
 /* color related variables */
@@ -171,80 +171,80 @@ void setup() {
 
 
  /* createan array of floating point values and populate it with frequencies corresponding to the notes in the musical scale Dm ajor. */
- numbers = new float[73];
- numbers[0] = 17.32; //C#
- numbers[1] = 17.32; //C#
- numbers[2] = 18.35; //D
- numbers[3] = 20.60; //E
- numbers[4] = 20.60; //E
- numbers[5] = 23.12; //F#
- numbers[6] = 23.12; //F#
- numbers[7] = 24.50; //G
- numbers[8] = 24.50; //G
- numbers[9] = 27.50; //A
- numbers[10] = 30.87; //B
- numbers[11] = 30.87; //B
- numbers[12] = 34.65; //C#
- numbers[13] = 34.65; //C#
- numbers[14] = 36.71; //D
- numbers[15] = 41.20; //E
- numbers[16] = 41.20; //E
- numbers[17] = 46.25; //F#
- numbers[18] = 46.25; //F#
- numbers[19] = 49.00; //G
- numbers[20] = 49.00; //G
- numbers[21] = 55.00; //A
- numbers[22] = 61.74; //B
- numbers[23] = 61.74; //B
- numbers[24] = 69.30; //C#
- numbers[25] = 69.30; //C#
- numbers[26] = 73.42; //D
- numbers[27] = 82.41; //E
- numbers[28] = 82.41; //E
- numbers[29] = 92.50; //F#
- numbers[30] = 92.50; //F#
- numbers[31] = 98.00; //G
- numbers[32] = 98.00; //G
- numbers[33] = 110.0; //A
- numbers[34] = 123.5; //B
- numbers[35] = 123.5; //B
- numbers[36] = 138.6; //C#
- numbers[37] = 138.6; //C#
- numbers[38] = 146.8; //D
- numbers[39] = 164.8; //E
- numbers[40] = 164.8; //E
- numbers[41] = 185.0; //F#
- numbers[42] = 185.0; //F#
- numbers[43] = 196.0; //G
- numbers[44] = 196.0; //G
- numbers[45] = 220.0; //A
- numbers[46] = 246.9; //B
- numbers[47] = 246.9; //B
- numbers[48] = 277.2; //C#
- numbers[49] = 277.2; //C#
- numbers[50] = 293.7; //D
- numbers[51] = 329.6; //E
- numbers[52] = 329.6; //E
- numbers[53] = 370.0; //F#
- numbers[54] = 370.0; //F#
- numbers[55] = 392.0; //G
- numbers[56] = 392.0; //G
- numbers[57] = 440.0; //A
- numbers[58] = 493.9; //B
- numbers[59] = 493.9; //B
- numbers[60] = 554.4; //C#
- numbers[61] = 554.4; //C#
- numbers[62] = 587.3; //D
- numbers[63] = 659.3; //E
- numbers[64] = 659.3; //E
- numbers[65] = 740.0; //F#
- numbers[66] = 740.0; //F#
- numbers[67] = 784.0; //G
- numbers[68] = 784.0; //G
- numbers[69] = 880.0; //A
- numbers[70] = 987.8; //B
- numbers[71] = 987.8; //B
- numbers[72] = 1109; //C#
+ frequencies = new float[73];
+ frequencies[0] = 17.32; //C#
+ frequencies[1] = 17.32; //C#
+ frequencies[2] = 18.35; //D
+ frequencies[3] = 20.60; //E
+ frequencies[4] = 20.60; //E
+ frequencies[5] = 23.12; //F#
+ frequencies[6] = 23.12; //F#
+ frequencies[7] = 24.50; //G
+ frequencies[8] = 24.50; //G
+ frequencies[9] = 27.50; //A
+ frequencies[10] = 30.87; //B
+ frequencies[11] = 30.87; //B
+ frequencies[12] = 34.65; //C#
+ frequencies[13] = 34.65; //C#
+ frequencies[14] = 36.71; //D
+ frequencies[15] = 41.20; //E
+ frequencies[16] = 41.20; //E
+ frequencies[17] = 46.25; //F#
+ frequencies[18] = 46.25; //F#
+ frequencies[19] = 49.00; //G
+ frequencies[20] = 49.00; //G
+ frequencies[21] = 55.00; //A
+ frequencies[22] = 61.74; //B
+ frequencies[23] = 61.74; //B
+ frequencies[24] = 69.30; //C#
+ frequencies[25] = 69.30; //C#
+ frequencies[26] = 73.42; //D
+ frequencies[27] = 82.41; //E
+ frequencies[28] = 82.41; //E
+ frequencies[29] = 92.50; //F#
+ frequencies[30] = 92.50; //F#
+ frequencies[31] = 98.00; //G
+ frequencies[32] = 98.00; //G
+ frequencies[33] = 110.0; //A
+ frequencies[34] = 123.5; //B
+ frequencies[35] = 123.5; //B
+ frequencies[36] = 138.6; //C#
+ frequencies[37] = 138.6; //C#
+ frequencies[38] = 146.8; //D
+ frequencies[39] = 164.8; //E
+ frequencies[40] = 164.8; //E
+ frequencies[41] = 185.0; //F#
+ frequencies[42] = 185.0; //F#
+ frequencies[43] = 196.0; //G
+ frequencies[44] = 196.0; //G
+ frequencies[45] = 220.0; //A
+ frequencies[46] = 246.9; //B
+ frequencies[47] = 246.9; //B
+ frequencies[48] = 277.2; //C#
+ frequencies[49] = 277.2; //C#
+ frequencies[50] = 293.7; //D
+ frequencies[51] = 329.6; //E
+ frequencies[52] = 329.6; //E
+ frequencies[53] = 370.0; //F#
+ frequencies[54] = 370.0; //F#
+ frequencies[55] = 392.0; //G
+ frequencies[56] = 392.0; //G
+ frequencies[57] = 440.0; //A
+ frequencies[58] = 493.9; //B
+ frequencies[59] = 493.9; //B
+ frequencies[60] = 554.4; //C#
+ frequencies[61] = 554.4; //C#
+ frequencies[62] = 587.3; //D
+ frequencies[63] = 659.3; //E
+ frequencies[64] = 659.3; //E
+ frequencies[65] = 740.0; //F#
+ frequencies[66] = 740.0; //F#
+ frequencies[67] = 784.0; //G
+ frequencies[68] = 784.0; //G
+ frequencies[69] = 880.0; //A
+ frequencies[70] = 987.8; //B
+ frequencies[71] = 987.8; //B
+ frequencies[72] = 1109; //C#
 
 
  /* set the speed of the animation */
@@ -297,11 +297,13 @@ void draw() {
   textAlign(LEFT);
   sqw.setFreq(0);
 
-
-
- textSize(11);
- fill(0);
- text("Data: University of Minnesota Parking and Transportation Services, Esri, DeLorme, NAVTEQ   Created by: Tobias Fimpel", 850, 895);
+   //then after 02-01-2016 has passed also gradually fade in the image
+   surf_opacity_counter = surf_opacity_counter + 0.8; //the rate at which the image will become less transparent
+   tint(255, surf_opacity_counter);
+   image(img_surface, 130, 165, 1237, 620);
+   noTint();
+  }
+ }
 
 
  /* loop over each marker in zapScans and draw the ellipses occuring during 2015 */
@@ -329,7 +331,9 @@ void draw() {
 
    ellipse(coords.x, coords.y, pointStroke, pointStroke); 
 
- /* year avgs */
+  } 
+ } //end drawing ellipses loop
+
 
  /* loop over each marker  in zapScanAvgs and draw the ellipses occuring after 2015 */
  for (Marker i: zapScanAvgs) {
@@ -535,40 +539,39 @@ void draw() {
   Float dayCount = Float.parseFloat(i.getStringProperty("day_of_year")); //get the day-number. This is used instead of currentTime. REquires some addtl. data preprocessing but makes it simpler here.
   String dayType = i.getStringProperty("wd_or_we"); //get the day type
   DateTimeFormatter f = DateTimeFormat.forPattern("MM-dd-yyyy");
+  String t = i.getStringProperty("date_as_string");
+  DateTime barTime = new DateTime(f.parseDateTime(t)); //get the date as date
 
-  /* check point's timeStamp and only if it's smaller than currentTime draw it*/
+  /* check point's timeStamp and only if it's smaller than currentTime plus one day draw a bar into the bar chart. color code based on weekend vs weekday day. */
   if (barTime.isBefore(currentTime.plusDays(1))) {
-   //bars
-   //if (dayType == "wd")
    if (dayType.equals("wd") == true) {
-    stroke(c_wd); //color...this should depend on weekend vs weekday
+    stroke(c_wd);
    }
    if (dayType.equals("we") == true) {
-    stroke(c_we); //color...this should depend on weekend vs weekday
+    stroke(c_we);
    }
-   strokeWeight(2); //width in pixel ... this needs to be somehow dependent on with of screen
-   line(originX + 2 + dayCount * 2, originY - 2, originX + 2 + dayCount * 2, originY - 2 - zapScanSum * 0.05); // (x1, y1, x2, y2) keep track of horizontal location in global variable 
+   strokeWeight(2);
+   line(originX + 2 + dayCount * 2, originY - 2, originX + 2 + dayCount * 2, originY - 2 - zapScanSum * 0.05); // keep track of horizontal location in dayCount variable 
   }
 
+  /* if the marker's date is before currentTime plus one day and after currentTime minus one day play the sound */
   if ((barTime.isBefore(currentTime.plusDays(1))) && (barTime.isAfter(currentTime.minusDays(1)))) {
    sqw.setFreq(zapScanSum / 3);
-   //sqw.setFreq(261.63);
-   //au_out.setGain(zapScanSum/30); //takes value in decibles
-   //find the closest nice note to the zapScanSum/3
-   float myNumber = zapScanSum / 2;
-   int distance = int(Math.abs(numbers[0] - myNumber));
+   //find the closest note in D major scale to the value zapScanSum/2. TO-DO: since our array is sorted this function could be much more efficient.
+   float calculatedNumber = zapScanSum / 2;
+   int distance = int(Math.abs(frequencies[0] - calculatedNumber));
    int idx = 0;
-   for (int c = 1; c < numbers.length; c++) {
-    int cdistance = int(Math.abs(numbers[c] - myNumber));
+   for (int c = 1; c < frequencies.length; c++) {
+    int cdistance = int(Math.abs(frequencies[c] - calculatedNumber));
     if (cdistance < distance) {
      idx = c;
      distance = cdistance;
     }
    }
-   int theNumber = int(numbers[idx]);
-   sqw.setFreq(theNumber);
+   int approximatedFrequency = int(frequencies[idx]);
+   sqw.setFreq(approximatedFrequency);
 
-   //the date display
+   /* update the date display to show the date*/
    strokeWeight(2);
    stroke(0);
    fill(255);
@@ -579,18 +582,20 @@ void draw() {
    text(" " + t, 1480, 635);
    textAlign(LEFT);
   }
-
- }
- currentTime = currentTime.plusDays(1); //advance the currentTime before draw function is called again
+ } //end loop over zapScanSums list
 
 
 
+ /* advance the currentTime by one day before draw function is called again */
+ currentTime = currentTime.plusDays(1);
+
+ /* start over once year 2016 is over */
  if (currentTime.isAfter(endTime)) {
-  surf_opacity_counter = 0.0;
+  surf_opacity_counter = 0.0; //make the interpolated surface image invisible again
   currentTime = startTime; //set currentTime to startTime
  }
 
  /* to export frames to images for input in Processing's Movie Maker tool */
  //saveFrame("frames/####.png");
 
-}
+} //end draw function
